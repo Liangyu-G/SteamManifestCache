@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1465710"
+	"common"
+	{
+		"name"		"白昼梦 心象病院"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"c4b4fd37f8f0dbe112c9e063e6248fb0bffe6a77"
+		"clienticon"		"ffd48870f07f2c54a65d0e6ba9899f5edac6a2bb"
+		"clienttga"		"3b6d2995e5d0250f1947345b37039424adc8edbe"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1704545928"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"林檎树"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eternal Dream"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"梦结界"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1704543085"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1465710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4166"
+			"1"		"1721"
+			"2"		"5608"
+			"3"		"3964"
+			"4"		"1742"
+			"5"		"1664"
+			"6"		"5716"
+			"7"		"1710"
+			"8"		"4295"
+			"9"		"5186"
+			"10"		"21"
+			"11"		"3871"
+			"12"		"1667"
+			"13"		"122"
+			"14"		"4434"
+			"15"		"5984"
+			"16"		"6971"
+			"17"		"4182"
+			"18"		"3942"
+			"19"		"113"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"林檎树"
+		"publisher"		"Eternal Dream"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1465710/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2754310,2754320,2754330"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HakuchuuMu-M-I-Hospital"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,japanese"
+		"hasdepotsindlc"		"1"
+		"1465711"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1424502893317830893"
+					"size"		"884349162"
+					"download"		"661233280"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13107186"
+				"timeupdated"		"1704539349"
+			}
+		}
+	}
+}
