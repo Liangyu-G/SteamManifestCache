@@ -410,9 +410,9 @@
 			{
 				"public"
 				{
-					"gid"		"581433617251800025"
-					"size"		"1924058581"
-					"download"		"1482579904"
+					"gid"		"4506654088997538572"
+					"size"		"1924649287"
+					"download"		"1482673568"
 				}
 				"0.12.35"
 				{
@@ -468,6 +468,12 @@
 					"size"		"1924058581"
 					"download"		"1482579904"
 				}
+				"1.1.101"
+				{
+					"gid"		"4506654088997538572"
+					"size"		"1924649287"
+					"download"		"1482673568"
+				}
 				"1.1.80"
 				{
 					"gid"		"7926401877427090171"
@@ -485,12 +491,6 @@
 					"gid"		"3920234051060784355"
 					"size"		"2002049786"
 					"download"		"1494444176"
-				}
-				"1.1.92"
-				{
-					"gid"		"9101985027044152758"
-					"size"		"2002452133"
-					"download"		"1494574032"
 				}
 				"1.1.93"
 				{
@@ -536,24 +536,24 @@
 				}
 				"1.1.x"
 				{
-					"gid"		"581433617251800025"
-					"size"		"1924058581"
-					"download"		"1482579904"
+					"gid"		"4506654088997538572"
+					"size"		"1924649287"
+					"download"		"1482673568"
 				}
 				"console"
 				{
-					"gid"		"581433617251800025"
-					"size"		"1924058581"
-					"download"		"1482579904"
+					"gid"		"4506654088997538572"
+					"size"		"1924649287"
+					"download"		"1482673568"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"build"
 				{
-					"gid"		"90C7C7F476665B2698AC887E277BBA1C"
-					"size"		"A55E84A35AF5AF5C63FCB9F701F313E0"
-					"download"		"00D202C7AB8CCCE50881A79CE7BC1678"
+					"gid"		"A54B870CD8FC6C95B24FC7DE17171A77"
+					"size"		"D9669FF38EDA8DD0D0BE8F06F0D14621"
+					"download"		"C1D42504BDF771325AD1C7CD55744EC0"
 				}
 			}
 		}
@@ -626,6 +626,12 @@
 					"size"		"488882534"
 					"download"		"290216160"
 				}
+				"1.1.101"
+				{
+					"gid"		"8127115610667035850"
+					"size"		"488882534"
+					"download"		"290216160"
+				}
 				"1.1.80"
 				{
 					"gid"		"8127115610667035850"
@@ -639,12 +645,6 @@
 					"download"		"290216160"
 				}
 				"1.1.91"
-				{
-					"gid"		"8127115610667035850"
-					"size"		"488882534"
-					"download"		"290216160"
-				}
-				"1.1.92"
 				{
 					"gid"		"8127115610667035850"
 					"size"		"488882534"
@@ -726,9 +726,9 @@
 			{
 				"public"
 				{
-					"gid"		"2745627558734978128"
-					"size"		"1828244385"
-					"download"		"1476040688"
+					"gid"		"8735424887389606429"
+					"size"		"1828817500"
+					"download"		"1476101808"
 				}
 				"0.12.35"
 				{
@@ -784,6 +784,12 @@
 					"size"		"1828244385"
 					"download"		"1476040688"
 				}
+				"1.1.101"
+				{
+					"gid"		"8735424887389606429"
+					"size"		"1828817500"
+					"download"		"1476101808"
+				}
 				"1.1.80"
 				{
 					"gid"		"4112332034946806500"
@@ -801,12 +807,6 @@
 					"gid"		"2991023016404252309"
 					"size"		"1906440941"
 					"download"		"1487927968"
-				}
-				"1.1.92"
-				{
-					"gid"		"1010787252510459737"
-					"size"		"1906852590"
-					"download"		"1488050064"
 				}
 				"1.1.93"
 				{
@@ -852,24 +852,24 @@
 				}
 				"1.1.x"
 				{
-					"gid"		"2745627558734978128"
-					"size"		"1828244385"
-					"download"		"1476040688"
+					"gid"		"8735424887389606429"
+					"size"		"1828817500"
+					"download"		"1476101808"
 				}
 				"console"
 				{
-					"gid"		"2745627558734978128"
-					"size"		"1828244385"
-					"download"		"1476040688"
+					"gid"		"8735424887389606429"
+					"size"		"1828817500"
+					"download"		"1476101808"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"build"
 				{
-					"gid"		"C6F61540EE03FD16321674E939299BA1"
-					"size"		"2410BE3E64BA1514BCC92F05CEA03D57"
-					"download"		"4E966E7F539A1F44448CA7D57F99DDF4"
+					"gid"		"C1DB7927944BC0329C468ACFDA852AFC"
+					"size"		"166FF8B5A691539700E68126EAD0E0E0"
+					"download"		"6664C7BB6C94B2F1BB165748E01E55D3"
 				}
 			}
 		}
@@ -942,6 +942,12 @@
 					"size"		"362494820"
 					"download"		"276749184"
 				}
+				"1.1.101"
+				{
+					"gid"		"2006867560965339051"
+					"size"		"362494820"
+					"download"		"276749184"
+				}
 				"1.1.80"
 				{
 					"gid"		"2006867560965339051"
@@ -955,12 +961,6 @@
 					"download"		"276749184"
 				}
 				"1.1.91"
-				{
-					"gid"		"2006867560965339051"
-					"size"		"362494820"
-					"download"		"276749184"
-				}
-				"1.1.92"
 				{
 					"gid"		"2006867560965339051"
 					"size"		"362494820"
@@ -1041,9 +1041,9 @@
 			{
 				"public"
 				{
-					"gid"		"2173376470003675984"
-					"size"		"2051037113"
-					"download"		"1506104096"
+					"gid"		"3850537473602821894"
+					"size"		"2051708183"
+					"download"		"1506224960"
 				}
 				"0.12.35"
 				{
@@ -1099,6 +1099,12 @@
 					"size"		"2051037113"
 					"download"		"1506104096"
 				}
+				"1.1.101"
+				{
+					"gid"		"3850537473602821894"
+					"size"		"2051708183"
+					"download"		"1506224960"
+				}
 				"1.1.80"
 				{
 					"gid"		"561634952236680145"
@@ -1116,12 +1122,6 @@
 					"gid"		"4019397484182839989"
 					"size"		"2128356902"
 					"download"		"1517823840"
-				}
-				"1.1.92"
-				{
-					"gid"		"8754614785234822247"
-					"size"		"2128814023"
-					"download"		"1518073728"
 				}
 				"1.1.93"
 				{
@@ -1167,24 +1167,24 @@
 				}
 				"1.1.x"
 				{
-					"gid"		"2173376470003675984"
-					"size"		"2051037113"
-					"download"		"1506104096"
+					"gid"		"3850537473602821894"
+					"size"		"2051708183"
+					"download"		"1506224960"
 				}
 				"console"
 				{
-					"gid"		"2173376470003675984"
-					"size"		"2051037113"
-					"download"		"1506104096"
+					"gid"		"3850537473602821894"
+					"size"		"2051708183"
+					"download"		"1506224960"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"build"
 				{
-					"gid"		"256D717E7675CCD42D43D2E6EB92FC9F"
-					"size"		"F96E1B7274BB5C847673DF8D5040100F"
-					"download"		"A6B154FF9190990A300FCBEC640D1049"
+					"gid"		"CD653FA15DEC400BCFE0F5AFDF25997D"
+					"size"		"03D8D6D8289797CFF330DA44AE2DC68A"
+					"download"		"0F2B02CE7DE49FA689891CEA8FBE7640"
 				}
 			}
 		}
@@ -1192,8 +1192,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12867506"
-				"timeupdated"		"1702328818"
+				"buildid"		"13047363"
+				"timeupdated"		"1704888787"
 			}
 			"0.12.35"
 			{
@@ -1246,8 +1246,14 @@
 			"1.1.100"
 			{
 				"buildid"		"12867506"
-				"description"		"Factorio Experimental 1.1.100"
+				"description"		"Factorio Outdated Stable 1.1.100"
 				"timeupdated"		"1701684995"
+			}
+			"1.1.101"
+			{
+				"buildid"		"13047363"
+				"description"		"Factorio Stable 1.1.101"
+				"timeupdated"		"1703594617"
 			}
 			"1.1.80"
 			{
@@ -1266,12 +1272,6 @@
 				"buildid"		"12179218"
 				"description"		"Factorio Outdated Stable 1.1.91"
 				"timeupdated"		"1694616617"
-			}
-			"1.1.92"
-			{
-				"buildid"		"12277802"
-				"description"		"Factorio Experimental 1.1.92"
-				"timeupdated"		"1695676294"
 			}
 			"1.1.93"
 			{
@@ -1312,26 +1312,26 @@
 			"1.1.99"
 			{
 				"buildid"		"12815497"
-				"description"		"Factorio Stable 1.1.99"
+				"description"		"Factorio Experimental 1.1.99"
 				"timeupdated"		"1701177015"
 			}
 			"1.1.x"
 			{
-				"buildid"		"12867506"
-				"description"		"Latest 1.1 Experimental (1.1.100)"
-				"timeupdated"		"1701684970"
+				"buildid"		"13047363"
+				"description"		"Latest 1.1 Experimental (1.1.101)"
+				"timeupdated"		"1703594630"
 			}
 			"build"
 			{
-				"buildid"		"12867506"
+				"buildid"		"13047363"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701683221"
+				"timeupdated"		"1703593396"
 			}
 			"console"
 			{
-				"buildid"		"12867506"
-				"description"		"Factorio version matching latest console release (1.1.100)"
-				"timeupdated"		"1702328711"
+				"buildid"		"13047363"
+				"description"		"Factorio version matching latest console release (1.1.101)"
+				"timeupdated"		"1704888742"
 			}
 		}
 	}
