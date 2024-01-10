@@ -23,6 +23,7 @@
 		"languages"
 		{
 			"english"		"1"
+			"german"		"1"
 			"french"		"1"
 			"italian"		"1"
 			"koreana"		"1"
@@ -261,6 +262,7 @@
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"1"
 		"1742932"
 		{
 			"config"
@@ -271,9 +273,9 @@
 			{
 				"public"
 				{
-					"gid"		"6842409277535635968"
-					"size"		"575561404"
-					"download"		"436121408"
+					"gid"		"1809774021848533859"
+					"size"		"575149164"
+					"download"		"435802848"
 				}
 			}
 			"encryptedmanifests"
@@ -284,23 +286,29 @@
 					"size"		"F0BD78BA0704D56C12DAC64DE20001BA"
 					"download"		"B037EE32849314B3299DA17D7E063700"
 				}
+				"beta_0"
+				{
+					"gid"		"744B0284F74A816102BE4F1C983A6874"
+					"size"		"A27583FE82DA115407689CA0714ABFC9"
+					"download"		"F14325B097DAA1B5F074AA75C4DD1573"
+				}
+				"beta_be"
+				{
+					"gid"		"0BF6C8C5A42966152D6B0447882D450C"
+					"size"		"A02CB279CE1034F523924CDFD6EFBAEC"
+					"download"		"BC24790B2972007FD023DDC2CBBD925B"
+				}
 				"beta_ca"
 				{
-					"gid"		"648603CFA8E7B8F3196362DD30563B5B"
-					"size"		"2A2A5D1A7B76A794308A896732C319A1"
-					"download"		"5A97D5414E8D9BD482572C3B763B7E62"
+					"gid"		"9BAF6E639902105C460ECA57A5E00BF9"
+					"size"		"9268E9D0C49FA7B88100BC3D73988E32"
+					"download"		"B737370424C59BC2DE029E3DF35C3AF5"
 				}
-				"beta_de"
+				"beta_uk"
 				{
-					"gid"		"217ACE22A5B82BCDB37BC364E62AFA26"
-					"size"		"E35A6CD062FC680E9B4D70EBFD4D7814"
-					"download"		"CB50EA29A9DD25D3D9BF892CDC3FAD2D"
-				}
-				"beta_review"
-				{
-					"gid"		"A212F81A809A7ABA0B98EAF1352712CC"
-					"size"		"2B740A06F8C4C910CDC2156C36FDCB2E"
-					"download"		"CB7B679A25889A72692849DF97800836"
+					"gid"		"D6E2A4F88F1B915AFA122F78BFA2B0C8"
+					"size"		"4552348409DA121612CE593848398E45"
+					"download"		"14CD5B2258F0EF991D0D5E3463EB7B8D"
 				}
 			}
 		}
@@ -314,9 +322,9 @@
 			{
 				"public"
 				{
-					"gid"		"5429862066966716263"
-					"size"		"621055888"
-					"download"		"446882112"
+					"gid"		"6667502063099596607"
+					"size"		"620644382"
+					"download"		"446564160"
 				}
 			}
 			"encryptedmanifests"
@@ -327,23 +335,29 @@
 					"size"		"D4874FDC8C48886759FD43FB9B6B49CE"
 					"download"		"603482DBD822D96AB15752800D58D06B"
 				}
+				"beta_0"
+				{
+					"gid"		"FDF7BE2BB239798BB5E43C8D63A3F667"
+					"size"		"BFF27AE2992C20C52506ED9884463896"
+					"download"		"CF3EABCD76DBE704A09CBF6D4CE1C9A3"
+				}
+				"beta_be"
+				{
+					"gid"		"4859F84965DA81F016774106F5A6A9C4"
+					"size"		"BC97F6813511DE760A4769064A34B663"
+					"download"		"592A3DB32F60AD3700C4974B09832537"
+				}
 				"beta_ca"
 				{
-					"gid"		"C7E08D3F1D966AC83D3DE25440A0B052"
-					"size"		"909BD75D603E0213084330B1D6DE8111"
-					"download"		"9ADF24A86DDB89A8F7C642B2DD94BBBB"
+					"gid"		"AE8CD32E2F75D5D5EC01261427389C6E"
+					"size"		"CA9F6BB7FBBDC94323C2B4B58D0E8D97"
+					"download"		"579A5A3AE3D034657522C3F2BBCDCB67"
 				}
-				"beta_de"
+				"beta_uk"
 				{
-					"gid"		"643929D1E7EA0C65FEE82FEA400E0209"
-					"size"		"9D45126D8C4AF09BBC2916B1DFA9B02B"
-					"download"		"9548FF5D1A938AA6C8300292C30E7A2A"
-				}
-				"beta_review"
-				{
-					"gid"		"06BE2E3E8F2E74A85A23BCEE67F4596E"
-					"size"		"8A2B5AFA8858B370A27928F1DA1DC19B"
-					"download"		"8CD5D64317B604ACDFBE7D59DE9F4686"
+					"gid"		"FB4C3FB53A21A744E876CB81A7A419C8"
+					"size"		"696A8D130ECEAFB32277AF7DB3369EFE"
+					"download"		"09C3926EBA357624DC7971F54352F166"
 				}
 			}
 		}
@@ -357,9 +371,9 @@
 			{
 				"public"
 				{
-					"gid"		"951329629271565846"
-					"size"		"586755694"
-					"download"		"438640096"
+					"gid"		"7082193138992216572"
+					"size"		"586340798"
+					"download"		"438321536"
 				}
 			}
 			"encryptedmanifests"
@@ -370,33 +384,38 @@
 					"size"		"1626FEC6FB15185471A9D0239EBED3E6"
 					"download"		"032D0A60B48B6B769101C77E87812448"
 				}
+				"beta_0"
+				{
+					"gid"		"D793B89437C9C2D980B9F547361EC260"
+					"size"		"617081114BB6C94582018B673F8E57EB"
+					"download"		"687CE13CAC772E44B46424B156FE2121"
+				}
+				"beta_be"
+				{
+					"gid"		"548AC61EB1F6CF29A2DCF2D1A0C63CDC"
+					"size"		"9CB44DD1DA000E51ABF959B8B5B4C03C"
+					"download"		"FEA74189A4DE75A14CB4488C0213B3AF"
+				}
 				"beta_ca"
 				{
-					"gid"		"C42B8E3799F6251346E262FE7750BBC5"
-					"size"		"30C2DE5BC5A5C4CD5498AE8EFEF6E926"
-					"download"		"65FF664CB0F4B0C061E5149D81FC183E"
+					"gid"		"8F6B62FE231B0B01758635A79F83391C"
+					"size"		"579E859A997B0876F96ACE15DB49C2EA"
+					"download"		"D8123ADD594AB059DC0F10B9A6ED55AC"
 				}
-				"beta_de"
+				"beta_uk"
 				{
-					"gid"		"FFD0590B908C1256072489A5C4EAABF6"
-					"size"		"6722199A2278989367B1D41B9C39227D"
-					"download"		"8A9660373C2A3B131C7B7F32B20261DC"
-				}
-				"beta_review"
-				{
-					"gid"		"CE5C57BC8BD5713B92E75F01CB48B6E7"
-					"size"		"149A29C0BB035E32A972DAC4AAD7BECF"
-					"download"		"E8A69420DCC71E66FEC97C7E7C160940"
+					"gid"		"2BCD2713C7E342975ADDED8F8D8AE496"
+					"size"		"D6D4B49631B8984F420DC079A15E05C2"
+					"download"		"E1A041B9E10BD1D19C1AC88B8B8A2415"
 				}
 			}
 		}
-		"hasdepotsindlc"		"0"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12971385"
-				"timeupdated"		"1702656315"
+				"buildid"		"13134894"
+				"timeupdated"		"1704907217"
 			}
 			"beta"
 			{
@@ -404,23 +423,29 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1694643549"
 			}
+			"beta_0"
+			{
+				"buildid"		"13015190"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703115727"
+			}
+			"beta_be"
+			{
+				"buildid"		"13057248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703769395"
+			}
 			"beta_ca"
 			{
-				"buildid"		"12571320"
+				"buildid"		"13135417"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698666601"
+				"timeupdated"		"1704907044"
 			}
-			"beta_de"
+			"beta_uk"
 			{
-				"buildid"		"12971385"
+				"buildid"		"13134894"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702648223"
-			}
-			"beta_review"
-			{
-				"buildid"		"11171886"
-				"pwdrequired"		"1"
-				"timeupdated"		"1683627898"
+				"timeupdated"		"1704881559"
 			}
 		}
 	}
