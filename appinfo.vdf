@@ -78,12 +78,17 @@
 			"0"
 			{
 				"type"		"developer"
-				"name"		"AsraWorks"
+				"name"		"asraworks"
 			}
 			"1"
 			{
 				"type"		"publisher"
-				"name"		"AsraWorks"
+				"name"		"asraworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Tower Tactics"
 			}
 		}
 		"primary_genre"		"2"
@@ -174,8 +179,8 @@
 	}
 	"extended"
 	{
-		"developer"		"AsraWorks"
-		"publisher"		"AsraWorks"
+		"developer"		"asraworks"
+		"publisher"		"asraworks"
 		"homepage"		"https://asraworks.com"
 		"listofdlc"		"2328120"
 		"dlcavailableonstore"		"1"
@@ -201,9 +206,9 @@
 			{
 				"public"
 				{
-					"gid"		"3065435974648549681"
-					"size"		"127196512"
-					"download"		"85057568"
+					"gid"		"4348083779997104333"
+					"size"		"118204944"
+					"download"		"77292096"
 				}
 			}
 		}
@@ -211,8 +216,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13036268"
-				"timeupdated"		"1703337124"
+				"buildid"		"13138619"
+				"timeupdated"		"1704906991"
 			}
 		}
 	}
