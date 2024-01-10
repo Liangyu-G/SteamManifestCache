@@ -331,15 +331,15 @@
 			{
 				"public"
 				{
-					"gid"		"6870737818420741416"
-					"size"		"4648919993"
-					"download"		"3070934624"
+					"gid"		"4524829014484720340"
+					"size"		"4648924785"
+					"download"		"3070935520"
 				}
 				"beta"
 				{
-					"gid"		"6870737818420741416"
-					"size"		"4648919993"
-					"download"		"3070934624"
+					"gid"		"4524829014484720340"
+					"size"		"4648924785"
+					"download"		"3070935520"
 				}
 			}
 			"encryptedmanifests"
@@ -358,15 +358,27 @@
 				}
 				"internal"
 				{
-					"gid"		"F9A133349046347A32B19E338153BD89"
-					"size"		"6D0D8E962322542804DA925E8D9F0EA1"
-					"download"		"4E2D05C4AB7D5EC63A2DA6AC5FA7F471"
+					"gid"		"FEED6CC8351D7E493D28B56D69AC757F"
+					"size"		"23DF7A2D07BAD84D4AF1C164E0F76D4A"
+					"download"		"AC45BB582C83E2CCAEFB4C969A892D3B"
 				}
 				"localization"
 				{
 					"gid"		"5FACF8DA1230BFD9598E5EEB0D134019"
 					"size"		"2E0563A6F2C8090940E0822987F55B72"
 					"download"		"BFF55C9D730C2FEE7A514B6B127AEF08"
+				}
+				"november-patch"
+				{
+					"gid"		"E32BDB96C7E4B10B2306B3887E8444C8"
+					"size"		"2CF2018D41203BA31F47443B35758E1B"
+					"download"		"C3BDBC9B022D32B0487D3F637DE37847"
+				}
+				"oktober-patch"
+				{
+					"gid"		"CED3FE0BB072AF2C7798E15F651567CF"
+					"size"		"86DB659C0A0F71AD07B992255FA8B243"
+					"download"		"E9B24650690DF05C51E4F53FFE4EFBC3"
 				}
 				"quality-assurance"
 				{
@@ -399,15 +411,15 @@
 			{
 				"public"
 				{
-					"gid"		"5699705833584460063"
-					"size"		"4709653492"
-					"download"		"3090571696"
+					"gid"		"1597756656368538884"
+					"size"		"4709657772"
+					"download"		"3090572848"
 				}
 				"beta"
 				{
-					"gid"		"5699705833584460063"
-					"size"		"4709653492"
-					"download"		"3090571696"
+					"gid"		"1597756656368538884"
+					"size"		"4709657772"
+					"download"		"3090572848"
 				}
 			}
 			"encryptedmanifests"
@@ -426,15 +438,27 @@
 				}
 				"internal"
 				{
-					"gid"		"B278679F3C3879DF8D75C9C0A7990D5A"
-					"size"		"802F63C69F22B9746BFAB832FF720860"
-					"download"		"5C96BF81831334B6E7476013D6A838FB"
+					"gid"		"4FC6E9A7AA0C5AEFB23B287FB81A1157"
+					"size"		"B8ABDCCD4063882DCC281FE7FC8D5569"
+					"download"		"7EFB19BE33CA92F1419FF9EC0E672C43"
 				}
 				"localization"
 				{
 					"gid"		"B4EFFBEA6D04BECDDBE55DF7AC3BDEDC"
 					"size"		"F53993DA1081775F4C15A6545C8A7D90"
 					"download"		"3EB35952AF7B7F884D0AC3983CE356C9"
+				}
+				"november-patch"
+				{
+					"gid"		"1E5277AF8E869414E2AE95B2121EAFA0"
+					"size"		"5F547766E8D04A81B3BC7B4AC6157595"
+					"download"		"3ACC716AD2B9FEAFD5D9DFAD37C915C9"
+				}
+				"oktober-patch"
+				{
+					"gid"		"61CE2BBA1C8640A9FD22ACFA5D4017B6"
+					"size"		"EAF3A9743EBB2E11B09F9A750A4F26FE"
+					"download"		"8389BC75DDA0458DE25DB73E5A893B8C"
 				}
 				"quality-assurance"
 				{
@@ -460,14 +484,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13011578"
-				"timeupdated"		"1703172218"
+				"buildid"		"13117340"
+				"timeupdated"		"1704889887"
 			}
 			"beta"
 			{
-				"buildid"		"13011578"
+				"buildid"		"13117340"
 				"description"		"Experimental changes & aspring bugfixes"
-				"timeupdated"		"1703172194"
+				"timeupdated"		"1704724511"
 			}
 			"demo"
 			{
@@ -483,15 +507,27 @@
 			}
 			"internal"
 			{
-				"buildid"		"13011578"
+				"buildid"		"13117340"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703085568"
+				"timeupdated"		"1704719007"
 			}
 			"localization"
 			{
 				"buildid"		"11505738"
 				"pwdrequired"		"1"
 				"timeupdated"		"1687179544"
+			}
+			"november-patch"
+			{
+				"buildid"		"12663012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703240552"
+			}
+			"oktober-patch"
+			{
+				"buildid"		"12424814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703240512"
 			}
 			"quality-assurance"
 			{
