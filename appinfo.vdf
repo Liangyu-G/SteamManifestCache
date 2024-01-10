@@ -170,6 +170,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1658415601"
 		"metacritic_score"		"78"
@@ -201,7 +206,7 @@
 			"19"		"4747"
 		}
 		"review_score"		"8"
-		"review_percentage"		"92"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
@@ -279,18 +284,18 @@
 			{
 				"public"
 				{
-					"gid"		"7969937348508214365"
-					"size"		"5036688480"
-					"download"		"4120913792"
+					"gid"		"5625603457264670519"
+					"size"		"5087116475"
+					"download"		"4163637312"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"testing"
 				{
-					"gid"		"4EFB9367C9902E29ED66319E306C71F4"
-					"size"		"68204E86EE11BCF0F4593E7EBD471953"
-					"download"		"7221931D4F648CA8E998DA3D885FC0D6"
+					"gid"		"1DABC9DB85D597C8C8DB2CDD44F37F36"
+					"size"		"0BC5903F1BE0E4D29D906A949C525355"
+					"download"		"4F6E96721B0BC29B9314C183CC7EF789"
 				}
 			}
 		}
@@ -323,14 +328,14 @@
 		{
 			"public"
 			{
-				"buildid"		"10184631"
-				"timeupdated"		"1671628535"
+				"buildid"		"13101425"
+				"timeupdated"		"1704903995"
 			}
 			"testing"
 			{
-				"buildid"		"10417407"
+				"buildid"		"13101425"
 				"pwdrequired"		"1"
-				"timeupdated"		"1674819696"
+				"timeupdated"		"1704464200"
 			}
 		}
 	}
