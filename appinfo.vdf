@@ -90,6 +90,7 @@
 			}
 		}
 		"metacritic_name"		"The Surge 2"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -150,6 +151,7 @@
 			"category_43"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_55"		"1"
 		}
 		"supported_languages"
 		{
@@ -233,8 +235,8 @@
 			"1"		"122"
 			"2"		"19"
 			"3"		"1695"
-			"4"		"3942"
-			"5"		"4667"
+			"4"		"4667"
+			"5"		"3942"
 			"6"		"4026"
 			"7"		"4182"
 			"8"		"1697"
