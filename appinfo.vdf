@@ -92,6 +92,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -99,7 +100,7 @@
 				"height_pct"		"66.7181192115887"
 			}
 		}
-		"store_asset_mtime"		"1694444765"
+		"store_asset_mtime"		"1704627891"
 		"associations"
 		{
 			"0"
@@ -129,10 +130,6 @@
 			"category_29"		"1"
 			"category_23"		"1"
 			"category_18"		"1"
-			"category_55"		"1"
-			"category_56"		"1"
-			"category_57"		"1"
-			"category_58"		"1"
 			"category_59"		"1"
 		}
 		"supported_languages"
@@ -174,7 +171,7 @@
 			"19"		"1697"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
