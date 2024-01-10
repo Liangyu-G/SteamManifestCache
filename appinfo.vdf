@@ -43,6 +43,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -50,7 +51,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1698254319"
+		"store_asset_mtime"		"1704891925"
 		"associations"
 		{
 			"0"
@@ -233,15 +234,15 @@
 			{
 				"public"
 				{
-					"gid"		"7697708458141097736"
-					"size"		"536568984"
-					"download"		"242880640"
+					"gid"		"3517209207353235214"
+					"size"		"536569154"
+					"download"		"242867344"
 				}
 				"vm_stable"
 				{
-					"gid"		"5528127214737708212"
-					"size"		"516249508"
-					"download"		"239548016"
+					"gid"		"1868496287777363770"
+					"size"		"516249678"
+					"download"		"239547520"
 				}
 			}
 		}
@@ -249,14 +250,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13113411"
-				"timeupdated"		"1704671315"
+				"buildid"		"13136724"
+				"timeupdated"		"1704892619"
 			}
 			"vm_stable"
 			{
-				"buildid"		"13113298"
+				"buildid"		"13136754"
 				"description"		"More demanding on hardware, but verbose error output."
-				"timeupdated"		"1704669507"
+				"timeupdated"		"1704892801"
 			}
 		}
 	}
