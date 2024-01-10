@@ -233,14 +233,14 @@
 			"19"		"1773"
 		}
 		"review_score"		"5"
-		"review_percentage"		"64"
+		"review_percentage"		"62"
 	}
 	"extended"
 	{
 		"developer"		"YUKE'S"
 		"publisher"		"THQ Nordic"
 		"homepage"		"https://aew.thqnordic.com"
-		"listofdlc"		"2154880,2252020,2252040,2436720,2436721,2611250,2611260,2611450"
+		"listofdlc"		"2154880,2252020,2252040,2436720,2436721,2611250,2611260,2611270,2611450"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -302,9 +302,9 @@
 			{
 				"anim"
 				{
-					"gid"		"27621841A1CC0039DB5E21516F007B86"
-					"size"		"F6D79E160323422FA37C123E5D433857"
-					"download"		"5C482359AC147DF07195079A2055E058"
+					"gid"		"6B401FC357F24D6814E4D4C0C4242A4F"
+					"size"		"8B49FBACF93DB4413611C273495E274F"
+					"download"		"4AF3058FD3CDD99D55361464AE8CE760"
 				}
 				"baseline"
 				{
@@ -320,15 +320,15 @@
 				}
 				"devtest"
 				{
-					"gid"		"49491312ECF84106BD3BE504AE7461EE"
-					"size"		"B7449A391EBACA1FFC59FCEDD1DA6C81"
-					"download"		"E3A62B56CC95602F1624F62825B32AD0"
+					"gid"		"0FB01D4F12A5DC5706BF5050FC6D53B8"
+					"size"		"0E4E36D15D54328DFF33ACAAA78A51AE"
+					"download"		"FBF9878E30D8E0C555A7F38216CF5AC5"
 				}
 				"devtest2"
 				{
-					"gid"		"D703021EE9B9A8D7792B48E066E3CE12"
-					"size"		"182B1BF5FA2B91F7ECE1C19D5285A480"
-					"download"		"928C40628A5F79E15DF27CC73A65FD6B"
+					"gid"		"0422E47DB2D2B6D00AD6CC5F8A457B5C"
+					"size"		"C9A116FCE203E67EEAB576AE51574BBB"
+					"download"		"3F5E86583C7E1F48C2632053FD106199"
 				}
 				"evaluation"
 				{
@@ -350,9 +350,9 @@
 				}
 				"internal"
 				{
-					"gid"		"18996765D39829FDBD25672B7D6054EB"
-					"size"		"D3FA2E5FA7302E377341ABA5EE20E648"
-					"download"		"AA4CF5E70E9E7B9CD76EB35D5B907E43"
+					"gid"		"77CB23D27C52B1114FB85F3B76907ED0"
+					"size"		"90E6FA06AD4CE8F4EBA5CEADB142BB78"
+					"download"		"FA208AD427763F6FAE9E51140709944A"
 				}
 				"internal_evaluation"
 				{
@@ -378,17 +378,17 @@
 					"size"		"BF1F692B8918E52F7F41278C9A80B1AB"
 					"download"		"3615F15666792A7BFA9FF72AD40E8358"
 				}
-				"milestone_1219"
+				"milestone_122723"
 				{
-					"gid"		"646FB33474A97DA0DF53259B5260D323"
-					"size"		"A37F3593734ABCAD81CAF8A45947E338"
-					"download"		"7BE0394031AA8CD718E538B426442322"
+					"gid"		"C2DC1BAB6DA1F4793E84DEBEF5591F1F"
+					"size"		"3FB49535C78C172DA91A69805EDE2DFE"
+					"download"		"C065CF7C108BFF3D410CEDD89044B31C"
 				}
 				"milestone_staging"
 				{
-					"gid"		"F543EC6163A1B406284E9882D44DCBD6"
-					"size"		"8370728B2135257DD4490E134F4BC220"
-					"download"		"F08E5E950BBD799524FB176221153A51"
+					"gid"		"C938EDBBBF1031AB5385385AFD26D522"
+					"size"		"165EBFD48798D395BB37D64F57DB1A1B"
+					"download"		"4305C0F18E2945364124C00B64446384"
 				}
 				"noeac"
 				{
@@ -426,23 +426,23 @@
 					"size"		"FAD32B87E9B8FF03F22F2A2F2DA6FA1B"
 					"download"		"80DF24B9065135183DC5317928A53B02"
 				}
-				"testgate_121323"
-				{
-					"gid"		"6E61949E2307546EDF8F73CA40A60005"
-					"size"		"EA647990D925D19F2A7961ABA0CCE3A8"
-					"download"		"6D112A33578D5F9297B18CF9625F977E"
-				}
 				"testgate_121923"
 				{
 					"gid"		"E091C41B12A6F1546A694C97A1406EDE"
 					"size"		"3B09864DE28E3042B4CC12430FD347CA"
 					"download"		"47CBB236F012578B2CB76BE2816B1C9A"
 				}
+				"testgate_122723"
+				{
+					"gid"		"41162C142C4DFA46B28BD055E60D35E7"
+					"size"		"CE155DE5A8392463F331B2291E866A5F"
+					"download"		"594D6280CF5D4D7A2589E5B0CD43F11B"
+				}
 				"testgate_staging"
 				{
-					"gid"		"8733BE297896F6FA1F6ACA514686379F"
-					"size"		"EA9812FAF549CE9766F7F64AF80FF5EB"
-					"download"		"22237A17FD1DD2190D8DBB5ED46C55EE"
+					"gid"		"9D37A4593BEC088A1E09A9DFD3A05EE2"
+					"size"		"7AEF9F43F1251CDE8EAD783A4D73DB42"
+					"download"		"288DD81B629B596DD5B18952146CB2BF"
 				}
 			}
 		}
@@ -455,9 +455,9 @@
 			}
 			"anim"
 			{
-				"buildid"		"13012845"
+				"buildid"		"13128776"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703094953"
+				"timeupdated"		"1704821208"
 			}
 			"baseline"
 			{
@@ -473,15 +473,15 @@
 			}
 			"devtest"
 			{
-				"buildid"		"12996176"
+				"buildid"		"13050360"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702950554"
+				"timeupdated"		"1703656671"
 			}
 			"devtest2"
 			{
-				"buildid"		"12996133"
+				"buildid"		"13050161"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702950538"
+				"timeupdated"		"1703651801"
 			}
 			"evaluation"
 			{
@@ -503,9 +503,9 @@
 			}
 			"internal"
 			{
-				"buildid"		"13012768"
+				"buildid"		"13133480"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703094225"
+				"timeupdated"		"1704866395"
 			}
 			"internal_evaluation"
 			{
@@ -531,17 +531,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1701423307"
 			}
-			"milestone_1219"
+			"milestone_122723"
 			{
-				"buildid"		"12996133"
+				"buildid"		"13050161"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702967336"
+				"timeupdated"		"1703652167"
 			}
 			"milestone_staging"
 			{
-				"buildid"		"12906272"
+				"buildid"		"13041460"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702012043"
+				"timeupdated"		"1703494334"
 			}
 			"noeac"
 			{
@@ -579,23 +579,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1701423283"
 			}
-			"testgate_121323"
-			{
-				"buildid"		"12946970"
-				"pwdrequired"		"1"
-				"timeupdated"		"1702444375"
-			}
 			"testgate_121923"
 			{
 				"buildid"		"12996176"
 				"pwdrequired"		"1"
 				"timeupdated"		"1702967315"
 			}
+			"testgate_122723"
+			{
+				"buildid"		"13050360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703656691"
+			}
 			"testgate_staging"
 			{
-				"buildid"		"12895698"
+				"buildid"		"13041497"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701934236"
+				"timeupdated"		"1703494305"
 			}
 		}
 	}
