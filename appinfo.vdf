@@ -8,7 +8,7 @@
 		"releasestate"		"released"
 		"oslist"		"windows,macos"
 		"osarch"		"64"
-		"osextended"		"macosapplesilicon"
+		"osextended"		"macos64,macosapplesilicon"
 		"icon"		"4e0afd0b950d57cb8394ef06f0107e30b9d2551e"
 		"clienticon"		"7bbb9f8bd1f16142e40c034e24c397b0011a5c20"
 		"clienttga"		"84d0fa65d45194c3e7fb17c2abbfa4bea9f03bc5"
@@ -213,9 +213,9 @@
 			{
 				"public"
 				{
-					"gid"		"7591768964222913"
-					"size"		"4424581665"
-					"download"		"1921978784"
+					"gid"		"8962545108811276683"
+					"size"		"4424213353"
+					"download"		"1922262672"
 				}
 			}
 		}
@@ -223,8 +223,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13135142"
-				"timeupdated"		"1704881266"
+				"buildid"		"13136502"
+				"timeupdated"		"1704890952"
 			}
 		}
 	}
