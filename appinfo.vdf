@@ -19,6 +19,16 @@
 		"clienttga"		"5c89cc963336a456644c65970df9be490e9f9a5b"
 		"icon"		"74f8ee1ba536e0759e64a9bf801fc013e16c8dd1"
 		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"217980_eula_0"
+				"name"		"Dishonored RHCP EULA"
+				"url"		"https://store.steampowered.com//eula/217980_eula_0"
+				"version"		"1"
+			}
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -97,6 +107,8 @@
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
 		}
 		"supported_languages"
 		{
@@ -142,12 +154,12 @@
 			"6"		"4166"
 			"7"		"4182"
 			"8"		"6426"
-			"9"		"4057"
-			"10"		"4342"
-			"11"		"21"
+			"9"		"4342"
+			"10"		"4057"
+			"11"		"9204"
 			"12"		"1756"
 			"13"		"4345"
-			"14"		"9204"
+			"14"		"21"
 			"15"		"4231"
 			"16"		"122"
 			"17"		"10808"
@@ -317,9 +329,9 @@
 			{
 				"public"
 				{
-					"gid"		"8812297198582997003"
-					"size"		"18576688"
-					"download"		"0"
+					"gid"		"969522649273911051"
+					"size"		"18448896"
+					"download"		"5220784"
 				}
 				"local"
 				{
@@ -463,7 +475,8 @@
 		{
 			"public"
 			{
-				"buildid"		"104487"
+				"buildid"		"10256413"
+				"timeupdated"		"1704988910"
 			}
 			"beta_qa"
 			{
