@@ -35,6 +35,50 @@
 				"version"		"1"
 			}
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1703289600"
+			"tested_build_id"		"12768080"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -56,6 +100,7 @@
 			"library_capsule"		"ja,en,zh-cn,zh-tw"
 			"library_hero"		"ja,en"
 			"library_logo"		"ja,en,zh-cn,zh-tw"
+			"library_header"		"en,ja,zh-cn,zh-tw"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -133,14 +178,15 @@
 			"1"		"21"
 			"2"		"4085"
 			"3"		"3871"
-			"4"		"5984"
-			"5"		"4057"
-			"6"		"5608"
-			"7"		"7208"
+			"4"		"4057"
+			"5"		"5984"
+			"6"		"7208"
+			"7"		"5608"
 			"8"		"4182"
 			"9"		"4486"
-			"10"		"1756"
-			"11"		"1742"
+			"10"		"1742"
+			"11"		"1756"
+			"12"		"12095"
 		}
 		"review_score"		"9"
 		"review_percentage"		"98"
@@ -174,18 +220,18 @@
 			{
 				"public"
 				{
-					"gid"		"3234638570754145427"
+					"gid"		"2393599331048596479"
 					"size"		"17702837564"
-					"download"		"11599174128"
+					"download"		"11599174768"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"ED6DD96E4F1BE4BD389DFF03ED502C99"
+					"gid"		"7F20175B5DF493F68A10B52290E0F8BF"
 					"size"		"B1EB7CA01EC0BCE3E639DBC1DCC54C5D"
-					"download"		"6AEE85C3CAE8493537ABA274211BD23C"
+					"download"		"67C7DE0CCD297E33BC26D30123E8089A"
 				}
 			}
 		}
@@ -193,14 +239,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12768080"
-				"timeupdated"		"1700634134"
+				"buildid"		"13060638"
+				"timeupdated"		"1704939714"
 			}
 			"beta"
 			{
-				"buildid"		"12768080"
+				"buildid"		"13060638"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700634330"
+				"timeupdated"		"1703828626"
 			}
 		}
 	}
