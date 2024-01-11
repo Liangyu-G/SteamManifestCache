@@ -70,6 +70,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -91,7 +92,7 @@
 				"height_pct"		"37.081453336499614"
 			}
 		}
-		"store_asset_mtime"		"1649140790"
+		"store_asset_mtime"		"1701860247"
 		"associations"
 		{
 			"0"
@@ -211,7 +212,7 @@
 			"19"		"4085"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"84"
 	}
 	"extended"
 	{
@@ -248,18 +249,18 @@
 			{
 				"public"
 				{
-					"gid"		"1607951381450568580"
-					"size"		"2482531580"
-					"download"		"962045632"
+					"gid"		"8754040272214611847"
+					"size"		"2482530316"
+					"download"		"962032256"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"47B6435016120E36A8F33276766F84DE"
-					"size"		"3EFD2333C5560E929D5B8EB45334D6AE"
-					"download"		"4A8979640C2E6EF7A0406CC903871D1B"
+					"gid"		"2FCB6982AB0FF63C3FB040B605BCA0EF"
+					"size"		"5972D7E78B0FA0BB80896A1A4B7FAD4E"
+					"download"		"8AA2A088E679795956A8B666D5947268"
 				}
 				"test"
 				{
@@ -273,14 +274,14 @@
 		{
 			"public"
 			{
-				"buildid"		"9224204"
-				"timeupdated"		"1659324476"
+				"buildid"		"13145891"
+				"timeupdated"		"1704974187"
 			}
 			"beta"
 			{
-				"buildid"		"9224204"
+				"buildid"		"13145891"
 				"pwdrequired"		"1"
-				"timeupdated"		"1659261841"
+				"timeupdated"		"1704972652"
 			}
 			"test"
 			{
