@@ -8,11 +8,10 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
-		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
-		"clienticon"		"56f33b37bb3a2154459a29779c8f4172e1bb554b"
+		"clienttga"		"ef8ac141167cb8eb382b0cf85f7cd211b0d99ed5"
+		"clienticon"		"2d97441e8625ef89c1ea3ee7f4597f04f0bd82fc"
 		"icon"		"5c404b83d55259ebd36febbb97b55faa3d5252ce"
 		"releasestate"		"released"
-		"app_retired_publisher_request"		"1"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -58,9 +57,6 @@
 		"category"
 		{
 			"category_2"		"1"
-			"category_1"		"1"
-			"category_36"		"1"
-			"category_49"		"1"
 			"category_23"		"1"
 		}
 		"supported_languages"
@@ -133,9 +129,9 @@
 			{
 				"public"
 				{
-					"gid"		"7998518743880190709"
-					"size"		"1486190638"
-					"download"		"935115136"
+					"gid"		"1490368273397933395"
+					"size"		"1049119310"
+					"download"		"896146752"
 				}
 			}
 		}
@@ -143,8 +139,8 @@
 		{
 			"public"
 			{
-				"buildid"		"10421877"
-				"timeupdated"		"1674858756"
+				"buildid"		"13128199"
+				"timeupdated"		"1704817068"
 			}
 		}
 	}
