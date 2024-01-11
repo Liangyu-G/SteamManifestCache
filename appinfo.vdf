@@ -128,7 +128,7 @@
 			"19"		"5984"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"75"
 	}
 	"extended"
 	{
@@ -154,18 +154,18 @@
 			{
 				"public"
 				{
-					"gid"		"3703967390358191160"
-					"size"		"389060919"
-					"download"		"221776304"
+					"gid"		"4080198919245209714"
+					"size"		"389111992"
+					"download"		"221720928"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"privatetest"
 				{
-					"gid"		"DB502BDBED5B7A60810A38748546BDAF"
-					"size"		"107934C473169DC12CBB392523BC11B9"
-					"download"		"96359F7B1516172E72F6CEAD26480E55"
+					"gid"		"012C88D8055D8FE37631E797C420FBAC"
+					"size"		"BD64B2F335DC3B140677760096BC03CC"
+					"download"		"BE903E91C2708E618A95DD918A6DC207"
 				}
 			}
 		}
@@ -173,14 +173,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13145490"
-				"timeupdated"		"1704979954"
+				"buildid"		"13148469"
+				"timeupdated"		"1704992320"
 			}
 			"privatetest"
 			{
-				"buildid"		"13145490"
+				"buildid"		"13148469"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704969594"
+				"timeupdated"		"1704991236"
 			}
 		}
 	}
