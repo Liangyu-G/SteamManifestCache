@@ -204,7 +204,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"8"
-		"review_percentage"		"89"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
@@ -248,24 +248,24 @@
 			{
 				"public"
 				{
-					"gid"		"9184150954011768848"
-					"size"		"7074186176"
-					"download"		"1021800000"
+					"gid"		"1180514093616294269"
+					"size"		"5259845142"
+					"download"		"1066203760"
 				}
 				"beta"
 				{
-					"gid"		"9184150954011768848"
-					"size"		"7074186176"
-					"download"		"1021800000"
+					"gid"		"3476810752990703837"
+					"size"		"5011432741"
+					"download"		"946459376"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"B60960E80096F4559748D1DF2E265865"
-					"size"		"0FD82F5A6BC9EED8129DF5C6E1557807"
-					"download"		"5451BC2285BC8D4A9C009066AFE17B37"
+					"gid"		"7C783ECE51BB06B845FCA1899CF2DD2A"
+					"size"		"B61E23C2C608C09F84ED16B12122C836"
+					"download"		"5B96D9FB40EB6473FDA9B2E78FB7F85E"
 				}
 				"modalpha"
 				{
@@ -328,20 +328,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12249834"
-				"timeupdated"		"1695324829"
+				"buildid"		"13139847"
+				"timeupdated"		"1704933537"
 			}
 			"alpha"
 			{
-				"buildid"		"12249834"
+				"buildid"		"13139847"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695323840"
+				"timeupdated"		"1704917186"
 			}
 			"beta"
 			{
-				"buildid"		"12249834"
+				"buildid"		"13016525"
 				"description"		"Beta"
-				"timeupdated"		"1695324838"
+				"timeupdated"		"1703128214"
 			}
 			"modalpha"
 			{
