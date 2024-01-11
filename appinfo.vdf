@@ -121,7 +121,7 @@
 			"19"		"597"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
@@ -180,9 +180,9 @@
 			{
 				"public"
 				{
-					"gid"		"6608565849860571419"
-					"size"		"805586100"
-					"download"		"497939184"
+					"gid"		"226962578770170714"
+					"size"		"804921785"
+					"download"		"497943680"
 				}
 			}
 		}
@@ -190,8 +190,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13121603"
-				"timeupdated"		"1704756704"
+				"buildid"		"13140742"
+				"timeupdated"		"1704924734"
 			}
 		}
 	}
