@@ -12,6 +12,8 @@
 		"clienticon"		"75a296198060843c5d19e772e30bb3351f59673b"
 		"clienttga"		"ff06be2e493e9e8da1fc30c49c0bf274fbd3eea3"
 		"icon"		"59c5287ebf03d0f224a46afee3e0dee9821ebd45"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -38,12 +40,12 @@
 			"0"
 			{
 				"type"		"developer"
-				"name"		"Studio Guirdy"
+				"name"		"Guirdy"
 			}
 			"1"
 			{
 				"type"		"publisher"
-				"name"		"Studio Guirdy"
+				"name"		"Guirdy"
 			}
 		}
 		"primary_genre"		"23"
@@ -56,6 +58,9 @@
 		{
 			"category_2"		"1"
 			"category_22"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -91,8 +96,8 @@
 	}
 	"extended"
 	{
-		"developer"		"Studio Guirdy"
-		"publisher"		"Studio Guirdy"
+		"developer"		"Guirdy"
+		"publisher"		"Guirdy"
 	}
 	"config"
 	{
@@ -122,9 +127,9 @@
 			{
 				"public"
 				{
-					"gid"		"151886888502884060"
-					"size"		"224205716"
-					"download"		"217369184"
+					"gid"		"8346547790960293555"
+					"size"		"241226934"
+					"download"		"234241632"
 				}
 			}
 		}
@@ -132,8 +137,8 @@
 		{
 			"public"
 			{
-				"buildid"		"9895264"
-				"timeupdated"		"1667936652"
+				"buildid"		"13148158"
+				"timeupdated"		"1704989093"
 			}
 		}
 	}
