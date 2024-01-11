@@ -90,7 +90,7 @@
 			"6"		"1719"
 		}
 		"review_score"		"7"
-		"review_percentage"		"90"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
@@ -126,9 +126,9 @@
 			{
 				"public"
 				{
-					"gid"		"3619315853963492348"
-					"size"		"7255390"
-					"download"		"4082000"
+					"gid"		"3762129639919576217"
+					"size"		"7894857"
+					"download"		"4491632"
 				}
 			}
 		}
@@ -136,8 +136,8 @@
 		{
 			"public"
 			{
-				"buildid"		"2317230"
-				"timeupdated"		"1511719484"
+				"buildid"		"13142462"
+				"timeupdated"		"1704941418"
 			}
 		}
 	}
