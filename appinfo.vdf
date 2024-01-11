@@ -97,7 +97,7 @@
 			"7"		"493"
 		}
 		"review_score"		"8"
-		"review_percentage"		"85"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -153,9 +153,9 @@
 			{
 				"public"
 				{
-					"gid"		"9183348528739472783"
-					"size"		"8310758783"
-					"download"		"1895988096"
+					"gid"		"2993266581213860970"
+					"size"		"8310758831"
+					"download"		"1895986224"
 				}
 				"ver1.0.12"
 				{
@@ -282,9 +282,9 @@
 				}
 				"daily"
 				{
-					"gid"		"F61930EA069EEF8BC063634018B6CD1A"
-					"size"		"99555EC363A7744748F804AB0259D443"
-					"download"		"308D7778231E97DBAA325E07C6872326"
+					"gid"		"D9AFDF95F2C72BEAEA964DEFFFFDE9A9"
+					"size"		"86C4F40CD9D106D49AFF8F2C9E2D0568"
+					"download"		"D2E62B45704A6041870CF5A8AC7B3A0A"
 				}
 				"drivesim"
 				{
@@ -294,9 +294,9 @@
 				}
 				"test"
 				{
-					"gid"		"7E92E4A15E98F794B9BE791DF0F457B2"
-					"size"		"762D329FE7170938FD13B6B7C9EAC32C"
-					"download"		"CD8D1570A1A629B9D81F9D461A1B0662"
+					"gid"		"8AAEC9D4F1EB30F79143AC9B6EF57673"
+					"size"		"CB33FF0FCC81BEC2431E1FFD502528DF"
+					"download"		"8C90DBEB78CFB8EE16EC18B6E7E14178"
 				}
 				"ver1.2.2legacygl"
 				{
@@ -310,8 +310,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13046359"
-				"timeupdated"		"1703658311"
+				"buildid"		"13142447"
+				"timeupdated"		"1704967362"
 			}
 			"advanced"
 			{
@@ -321,9 +321,9 @@
 			}
 			"daily"
 			{
-				"buildid"		"13046359"
+				"buildid"		"13142447"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703579989"
+				"timeupdated"		"1704943855"
 			}
 			"drivesim"
 			{
@@ -333,9 +333,9 @@
 			}
 			"test"
 			{
-				"buildid"		"13046359"
+				"buildid"		"13142447"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703577139"
+				"timeupdated"		"1704941188"
 			}
 			"ver1.0.12"
 			{
