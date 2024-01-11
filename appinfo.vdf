@@ -1,0 +1,263 @@
+"appinfo"
+{
+	"appid"		"1747760"
+	"common"
+	{
+		"name"		"Momodora: Moonlit Farewell"
+		"type"		"Game"
+		"logo"		"31b059a7091401186395c8a488fee797b5864580"
+		"logo_small"		"31b059a7091401186395c8a488fee797b5864580_thumb"
+		"icon"		"60397757b650ee0ffa5d6599857391613b1c97f9"
+		"clienttga"		"d69999ccb79d57034d9e06d9e0ebc846fdbcc87a"
+		"clienticon"		"ada70f8884064b25e7490680e62f134847541a96"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"Momodora: 月影のエンドロール"
+			"schinese"		"莫莫多拉: 月下告别"
+			"tchinese"		"莫莫多拉: 月下告別"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"67.09451575262541"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1703139748"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bombservice"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Momodora"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1704960022"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1747760"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"4106"
+			"3"		"1625"
+			"4"		"3834"
+			"5"		"1628"
+			"6"		"3871"
+			"7"		"3964"
+			"8"		"1684"
+			"9"		"4004"
+			"10"		"3993"
+			"11"		"4182"
+			"12"		"7208"
+			"13"		"5379"
+			"14"		"4057"
+			"15"		"492"
+			"16"		"4085"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Bombservice"
+		"publisher"		"PLAYISM"
+	}
+	"config"
+	{
+		"installdir"		"Momodora Moonlit Farewell"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MomodoraMoonlitFarewell.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1747761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1569363770089856613"
+					"size"		"1277238073"
+					"download"		"151925104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2A54B4EFE72DE18A240A7DE7FA514509"
+					"size"		"C8C53BE545E8E0B43A412F466471CD4E"
+					"download"		"EE2A2D939582F5EA8ECF44E191F5E3F6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13139862"
+				"timeupdated"		"1704917226"
+			}
+			"beta"
+			{
+				"buildid"		"12908925"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702024320"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"BOMBSERVICE/MomodoraMoonlitFarewell/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
