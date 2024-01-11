@@ -209,11 +209,11 @@
 			"7"		"3854"
 			"8"		"19"
 			"9"		"3871"
-			"10"		"4191"
-			"11"		"3859"
+			"10"		"3859"
+			"11"		"4191"
 			"12"		"1742"
-			"13"		"1684"
-			"14"		"7368"
+			"13"		"7368"
+			"14"		"1684"
 			"15"		"3993"
 			"16"		"4145"
 			"17"		"5984"
@@ -281,18 +281,18 @@
 			{
 				"public"
 				{
-					"gid"		"7956303059053876109"
-					"size"		"26483529938"
-					"download"		"25232479664"
+					"gid"		"1880262007771537718"
+					"size"		"26485607938"
+					"download"		"25232191120"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"debug"
 				{
-					"gid"		"159E77BBE879CDA31F35A1A15182A957"
-					"size"		"93C15D246D60791EEB1622DD736397EA"
-					"download"		"2A1AE2FE936B2534E5E39998994286BB"
+					"gid"		"A135748CDF614936289267C31F4B0105"
+					"size"		"4D8CCEE669E22EB062F19174842C8809"
+					"download"		"CAEB0FC339004753E13C7A2A5D8C4D6E"
 				}
 				"debug2"
 				{
@@ -308,9 +308,9 @@
 				}
 				"release"
 				{
-					"gid"		"1A5A403085DCB3F8911CD929408BDAB5"
-					"size"		"D059AFEF6401FDFD1BE6B44E06F3C8DA"
-					"download"		"05604E4EBAA64814CDDDF56ED233B86D"
+					"gid"		"95AC68B01D90D8BDEB00AC74F1785B28"
+					"size"		"745C3ECF6EDDE8BBC68B191D3EB738C3"
+					"download"		"04AFAD6A1006659A5CD67D31BFDE5287"
 				}
 				"steamevaluation"
 				{
@@ -343,14 +343,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12694766"
-				"timeupdated"		"1702020444"
+				"buildid"		"12996509"
+				"timeupdated"		"1704958132"
 			}
 			"debug"
 			{
-				"buildid"		"12694827"
+				"buildid"		"12997207"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699926937"
+				"timeupdated"		"1702965056"
 			}
 			"debug2"
 			{
@@ -366,9 +366,9 @@
 			}
 			"release"
 			{
-				"buildid"		"12694766"
+				"buildid"		"12996509"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699926927"
+				"timeupdated"		"1702962586"
 			}
 			"steamevaluation"
 			{
