@@ -87,6 +87,7 @@
 			"tchinese"		"capsule_231x87_tchinese.jpg"
 			"schinese"		"capsule_231x87_schinese.jpg"
 			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
 		}
 		"header_image"
 		{
@@ -94,12 +95,14 @@
 			"schinese"		"header_schinese.jpg"
 			"tchinese"		"header_tchinese.jpg"
 			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-cn,zh-tw,ja"
+			"library_capsule"		"en,zh-cn,zh-tw,ja,ko"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en,ja,zh-cn,zh-tw,ko"
 			"logo_position"
 			{
 				"pinned_position"		"UpperCenter"
@@ -107,7 +110,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1701972216"
+		"store_asset_mtime"		"1703400274"
 		"associations"
 		{
 			"0"
@@ -206,25 +209,25 @@
 		"gameid"		"538030"
 		"store_tags"
 		{
-			"0"		"122"
-			"1"		"9"
-			"2"		"6426"
-			"3"		"1742"
-			"4"		"4747"
-			"5"		"21"
-			"6"		"4325"
-			"7"		"4474"
-			"8"		"1741"
-			"9"		"1677"
-			"10"		"14139"
-			"11"		"1708"
-			"12"		"1684"
-			"13"		"4604"
-			"14"		"4182"
-			"15"		"4155"
-			"16"		"3993"
-			"17"		"1687"
-			"18"		"4947"
+			"0"		"9"
+			"1"		"599"
+			"2"		"4364"
+			"3"		"3987"
+			"4"		"1670"
+			"5"		"1741"
+			"6"		"1678"
+			"7"		"1708"
+			"8"		"12472"
+			"9"		"4695"
+			"10"		"3810"
+			"11"		"4168"
+			"12"		"4182"
+			"13"		"1677"
+			"14"		"1669"
+			"15"		"7107"
+			"16"		"4711"
+			"17"		"6310"
+			"18"		"4598"
 			"19"		"493"
 		}
 		"review_score"		"6"
@@ -260,15 +263,15 @@
 			{
 				"public"
 				{
-					"gid"		"5876634519736610320"
-					"size"		"5342597115"
-					"download"		"4074940400"
+					"gid"		"6741611669782464755"
+					"size"		"5342597398"
+					"download"		"4074938240"
 				}
 				"experimental"
 				{
-					"gid"		"8330463713156265220"
-					"size"		"5253515867"
-					"download"		"4031625536"
+					"gid"		"3826369794685386706"
+					"size"		"5253516194"
+					"download"		"4031625056"
 				}
 				"experimental_legacy"
 				{
@@ -287,15 +290,15 @@
 			{
 				"internal"
 				{
-					"gid"		"A407E8B95E58FF1884F5E3F8C65C0BA4"
-					"size"		"6A6F81FCD0A491A39C83E6FBAAD874A9"
-					"download"		"D85EE192E8D05671ED5120D2055A8B0B"
+					"gid"		"9413FA3477FF679194FE4F3C73AF95AB"
+					"size"		"41670A1D2CB4B991380013349E41AF53"
+					"download"		"9EDF54C30DCAC164DF05C12092642BE6"
 				}
 				"internal2"
 				{
-					"gid"		"D399FF82A078E25034212A07C6C71F52"
-					"size"		"7ADA3F31857760D763CAE10B29BF6A83"
-					"download"		"7F5FEE4DC9AF96E64B0195ADD7916E5E"
+					"gid"		"3B1C31AE4E4E7C20F40CC575480BA599"
+					"size"		"330F61AFAC4BC01B455C9A3BE350D96A"
+					"download"		"EAD3E9C736063E484A26EEFEC66990F4"
 				}
 				"legacy2"
 				{
@@ -309,14 +312,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12976074"
-				"timeupdated"		"1703004459"
+				"buildid"		"13097043"
+				"timeupdated"		"1704971070"
 			}
 			"experimental"
 			{
-				"buildid"		"12975361"
+				"buildid"		"13096408"
 				"description"		"Experimental / unstable builds"
-				"timeupdated"		"1702677158"
+				"timeupdated"		"1704455904"
 			}
 			"experimental_legacy"
 			{
@@ -326,15 +329,15 @@
 			}
 			"internal"
 			{
-				"buildid"		"12976074"
+				"buildid"		"13138096"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702983076"
+				"timeupdated"		"1704968574"
 			}
 			"internal2"
 			{
-				"buildid"		"12355304"
+				"buildid"		"13097043"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699630293"
+				"timeupdated"		"1704965792"
 			}
 			"legacy"
 			{
