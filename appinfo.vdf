@@ -254,7 +254,7 @@
 			"19"		"4085"
 		}
 		"review_score"		"8"
-		"review_percentage"		"98"
+		"review_percentage"		"97"
 	}
 	"extended"
 	{
@@ -511,9 +511,9 @@
 			{
 				"sashimi"
 				{
-					"gid"		"D19A8FF6D9F4F42F1BABACCC8A34CA03"
-					"size"		"29720A23320FBE87B6B9011DF2DE48EE"
-					"download"		"7B164CF8890E4EC927F01ADE143712C3"
+					"gid"		"BE3BC41F8222C764742075EE93734FA8"
+					"size"		"331E3D11A4F021366488D398A99BA672"
+					"download"		"E7A306C513AC0CE0C1040ACA2BF02BEB"
 				}
 			}
 		}
@@ -532,9 +532,9 @@
 			}
 			"sashimi"
 			{
-				"buildid"		"12834179"
+				"buildid"		"12845025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701307295"
+				"timeupdated"		"1701393843"
 			}
 			"sukiyaki"
 			{
