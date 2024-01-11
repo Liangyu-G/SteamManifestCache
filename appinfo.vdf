@@ -199,8 +199,8 @@
 		"store_tags"
 		{
 			"0"		"597"
-			"1"		"4136"
-			"2"		"3859"
+			"1"		"3859"
+			"2"		"4136"
 			"3"		"4726"
 			"4"		"7178"
 			"5"		"19"
@@ -267,13 +267,19 @@
 			{
 				"public"
 				{
-					"gid"		"5478372921481650570"
-					"size"		"8062382117"
-					"download"		"5098550912"
+					"gid"		"3075968503610981532"
+					"size"		"8065109183"
+					"download"		"5100867360"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"demo"
+				{
+					"gid"		"3D6F4F4243C09153E3C71C246B3AAA3D"
+					"size"		"A73C0CE995D6416F3CCCF3CF2AB8FCEC"
+					"download"		"F1697794F5BE4F5E622507739DF2E63D"
+				}
 				"festival-autumn-edition"
 				{
 					"gid"		"B9AF1DF56ACFFC5DAF7FAD47A49AE462"
@@ -282,15 +288,15 @@
 				}
 				"interal"
 				{
-					"gid"		"355B29086FBA4ED622359DEF8F74CA71"
-					"size"		"5C05A1007EC910FCEECD21D659D9FCE1"
-					"download"		"30C8B088572BD57B91F939D4B7BAF431"
+					"gid"		"FB5334CDBB2BD12FE47B975FAB43464E"
+					"size"		"1EC0306D943374DA13EEB14CE95C7238"
+					"download"		"F094CB9C7B93F3492D8D66D48E46DB0F"
 				}
 				"re-cand"
 				{
-					"gid"		"CC31A0672BD581E7C8F50088558DABAC"
-					"size"		"11ED485A8057216FD834C741F6CD11A2"
-					"download"		"ED77F164829254015BA152E3665B2AC2"
+					"gid"		"34F115EF77CD087CC104BC26ACA1C7CE"
+					"size"		"3DC769CFF5A1776CD98DCEC29C31C655"
+					"download"		"0BC39172EE17948579AC24F00576407E"
 				}
 			}
 		}
@@ -298,8 +304,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13090514"
-				"timeupdated"		"1704443654"
+				"buildid"		"13141790"
+				"timeupdated"		"1704962960"
+			}
+			"demo"
+			{
+				"buildid"		"5144394"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704945933"
 			}
 			"festival-autumn-edition"
 			{
@@ -309,15 +321,15 @@
 			}
 			"interal"
 			{
-				"buildid"		"13090514"
+				"buildid"		"13141790"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704360464"
+				"timeupdated"		"1704940794"
 			}
 			"re-cand"
 			{
-				"buildid"		"13090514"
+				"buildid"		"13141790"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704365516"
+				"timeupdated"		"1704941041"
 			}
 		}
 	}
