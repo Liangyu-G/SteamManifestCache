@@ -184,8 +184,8 @@
 			"15"		"492"
 			"16"		"4085"
 		}
-		"review_score"		"7"
-		"review_percentage"		"85"
+		"review_score"		"8"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
@@ -216,9 +216,9 @@
 			{
 				"public"
 				{
-					"gid"		"1569363770089856613"
-					"size"		"1277238073"
-					"download"		"151925104"
+					"gid"		"5059022477358925948"
+					"size"		"1277238137"
+					"download"		"151928000"
 				}
 			}
 			"encryptedmanifests"
@@ -235,8 +235,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13139862"
-				"timeupdated"		"1704917226"
+				"buildid"		"13146962"
+				"timeupdated"		"1704981171"
 			}
 			"beta"
 			{
