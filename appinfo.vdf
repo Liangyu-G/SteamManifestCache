@@ -141,9 +141,9 @@
 			"11"		"1773"
 			"12"		"492"
 			"13"		"3798"
-			"14"		"19"
+			"14"		"4136"
 			"15"		"5350"
-			"16"		"4136"
+			"16"		"19"
 			"17"		"597"
 			"18"		"9"
 			"19"		"21"
@@ -223,9 +223,18 @@
 			{
 				"public"
 				{
-					"gid"		"2018952014081804638"
-					"size"		"315626744"
-					"download"		"263820640"
+					"gid"		"8259882692733807559"
+					"size"		"315713602"
+					"download"		"263883536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3E6A9860F9BB9C4226BC5745FDEAB115"
+					"size"		"C36FF868D106A822C4D0753C1F78DDA7"
+					"download"		"39242777573CAED2A7A347AA147E7C2C"
 				}
 			}
 		}
@@ -245,14 +254,29 @@
 					"download"		"265455776"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5D2908C60107531ED553EC74EEAC29E3"
+					"size"		"78E68E9FC0DBF69B4A8357C9ED22F7DA"
+					"download"		"5B0E24FED9AC2F19C0E0282994E39455"
+				}
+			}
 		}
 		"baselanguages"		"english"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"13110261"
-				"timeupdated"		"1704602398"
+				"buildid"		"13143233"
+				"timeupdated"		"1704951479"
+			}
+			"beta"
+			{
+				"buildid"		"13143233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704949643"
 			}
 		}
 	}
