@@ -97,7 +97,7 @@
 			"0"		"599"
 		}
 		"review_score"		"5"
-		"review_percentage"		"46"
+		"review_percentage"		"42"
 	}
 	"extended"
 	{
@@ -117,15 +117,15 @@
 			{
 				"public"
 				{
-					"gid"		"7476516071103152662"
-					"size"		"8794944823"
-					"download"		"8915200432"
+					"gid"		"8000978764251497009"
+					"size"		"9119371242"
+					"download"		"9244065680"
 				}
 				"beta"
 				{
-					"gid"		"7476516071103152662"
-					"size"		"8794944823"
-					"download"		"8915200432"
+					"gid"		"8000978764251497009"
+					"size"		"9119371242"
+					"download"		"9244065680"
 				}
 			}
 			"dlcappid"		"2126102"
@@ -134,14 +134,14 @@
 		{
 			"public"
 			{
-				"buildid"		"10477560"
-				"timeupdated"		"1675691681"
+				"buildid"		"13131651"
+				"timeupdated"		"1704911800"
 			}
 			"beta"
 			{
-				"buildid"		"10477560"
+				"buildid"		"13131651"
 				"description"		"beta"
-				"timeupdated"		"1675688448"
+				"timeupdated"		"1704850361"
 			}
 		}
 	}
