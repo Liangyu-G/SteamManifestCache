@@ -14,6 +14,7 @@
 		"clienticon"		"272a403f30668cbede07c513a7d289aee27de154"
 		"clienttga"		"d78254fc66f099df99e2c67f3d906ccd05a38d74"
 		"metacritic_name"		"Star Speeder"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -138,9 +139,9 @@
 			{
 				"public"
 				{
-					"gid"		"2247332044875125622"
-					"size"		"140529790"
-					"download"		"61318704"
+					"gid"		"5831819500015674186"
+					"size"		"130778689"
+					"download"		"59339984"
 				}
 			}
 		}
@@ -148,8 +149,8 @@
 		{
 			"public"
 			{
-				"buildid"		"8087023"
-				"timeupdated"		"1643169374"
+				"buildid"		"13145019"
+				"timeupdated"		"1704966309"
 			}
 		}
 	}
