@@ -88,6 +88,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -95,7 +96,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1702578101"
+		"store_asset_mtime"		"1704911887"
 		"associations"
 		{
 			"0"
@@ -323,15 +324,15 @@
 				}
 				"staging-shipping"
 				{
-					"gid"		"3AEF25308104AC85663A656FB77A462E"
-					"size"		"0D370FE0BE43BBD6F8C5814213F0F59F"
-					"download"		"0176EF2C3100C8075769503C71A162F7"
+					"gid"		"F25D9C729437A4846CCFF1736D6C6C9D"
+					"size"		"E86528BA1183221D2D9DF8034D82CACD"
+					"download"		"3E2DF553760015728145E11099D43082"
 				}
 				"staging-test"
 				{
-					"gid"		"156AF92D0097088B174000DA8060CB74"
-					"size"		"3B1CA6B5628C44877768C5255B4A27D9"
-					"download"		"00F081709285A71D1BA1ABC0B146CCAD"
+					"gid"		"0BC14CCD0109E89212C97CEAC6A8E4A4"
+					"size"		"3EDD7644343AADB7F76F60ED9B1CF4B6"
+					"download"		"32669AD944336E85E73427B42A9B5424"
 				}
 				"test"
 				{
@@ -387,15 +388,15 @@
 			}
 			"staging-shipping"
 			{
-				"buildid"		"13119839"
+				"buildid"		"13142321"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704738847"
+				"timeupdated"		"1704939793"
 			}
 			"staging-test"
 			{
-				"buildid"		"13119829"
+				"buildid"		"13142308"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704738751"
+				"timeupdated"		"1704939695"
 			}
 			"test"
 			{
