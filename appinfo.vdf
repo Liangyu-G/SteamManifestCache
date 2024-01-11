@@ -305,9 +305,9 @@
 			{
 				"public"
 				{
-					"gid"		"397310729777323329"
-					"size"		"6919245362"
-					"download"		"3755898752"
+					"gid"		"5732663110379926530"
+					"size"		"6919256626"
+					"download"		"3755890032"
 				}
 			}
 			"encryptedmanifests"
@@ -320,9 +320,9 @@
 				}
 				"publictest"
 				{
-					"gid"		"08187C1C54C9AEB04F685A8439182FE2"
-					"size"		"06C8521992EF9CFD230803DEEE21C223"
-					"download"		"E4083E4DB68FBF791303D61F7D4099F8"
+					"gid"		"7EC7D33B8B82F549A9FDC32C5D7C1603"
+					"size"		"0D6D9AB96E19CD6A9017C87FA431E605"
+					"download"		"D92E46FD37EEE647ADD41425DE2061A3"
 				}
 				"smallsail"
 				{
@@ -336,8 +336,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13108360"
-				"timeupdated"		"1704565117"
+				"buildid"		"13146604"
+				"timeupdated"		"1704983065"
 			}
 			"internaltesting"
 			{
@@ -347,9 +347,9 @@
 			}
 			"publictest"
 			{
-				"buildid"		"13108360"
+				"buildid"		"13146604"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704563753"
+				"timeupdated"		"1704978212"
 			}
 			"smallsail"
 			{
