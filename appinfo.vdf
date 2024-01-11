@@ -96,7 +96,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1693444556"
+		"store_asset_mtime"		"1701158979"
 		"associations"
 		{
 			"0"
@@ -208,7 +208,7 @@
 			"19"		"3916"
 		}
 		"review_score"		"8"
-		"review_percentage"		"81"
+		"review_percentage"		"82"
 	}
 	"extended"
 	{
@@ -239,9 +239,9 @@
 			{
 				"public"
 				{
-					"gid"		"94573960632491174"
+					"gid"		"9095509147171990248"
 					"size"		"611170709"
-					"download"		"541174032"
+					"download"		"541170272"
 				}
 			}
 		}
@@ -249,8 +249,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12760932"
-				"timeupdated"		"1700575134"
+				"buildid"		"13141439"
+				"timeupdated"		"1704931492"
 			}
 		}
 	}
