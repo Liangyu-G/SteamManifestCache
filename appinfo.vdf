@@ -214,19 +214,19 @@
 			"4"		"4328"
 			"5"		"1616"
 			"6"		"4695"
-			"7"		"3810"
-			"8"		"1643"
+			"7"		"1643"
+			"8"		"3810"
 			"9"		"4182"
 			"10"		"4175"
 			"11"		"1669"
 			"12"		"1695"
-			"13"		"15045"
-			"14"		"8945"
+			"13"		"8945"
+			"14"		"15045"
 			"15"		"6910"
 			"16"		"5310"
 			"17"		"597"
 			"18"		"492"
-			"19"		"1721"
+			"19"		"3987"
 		}
 		"review_score"		"8"
 		"review_percentage"		"89"
@@ -287,15 +287,15 @@
 			{
 				"public"
 				{
-					"gid"		"5211628279550791597"
-					"size"		"38499369715"
-					"download"		"15066425248"
+					"gid"		"2339063698111973181"
+					"size"		"38499367179"
+					"download"		"15066423456"
 				}
 				"testing"
 				{
-					"gid"		"5211628279550791597"
-					"size"		"38499369715"
-					"download"		"15066425248"
+					"gid"		"2339063698111973181"
+					"size"		"38499367179"
+					"download"		"15066423456"
 				}
 			}
 			"encryptedmanifests"
@@ -410,9 +410,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"AF475F55FE1E20AD0D2892C907A13D9C"
-					"size"		"B06268D4FC63D290C790E6993814BA1B"
-					"download"		"CC17D81C44912029048292CC7B4F13E4"
+					"gid"		"77A1F64F276D8DC4113CA2A930E7CC2A"
+					"size"		"10267F468AABAD05034DB7961671EC6F"
+					"download"		"877C8BE41CAA4A3324233DA0BC7CA80A"
 				}
 			}
 		}
@@ -426,15 +426,15 @@
 			{
 				"public"
 				{
-					"gid"		"4935386249146812174"
-					"size"		"113276472"
-					"download"		"25968368"
+					"gid"		"7112440909351404367"
+					"size"		"113312824"
+					"download"		"25976256"
 				}
 				"testing"
 				{
-					"gid"		"807215289877559382"
+					"gid"		"7112440909351404367"
 					"size"		"113312824"
-					"download"		"25975424"
+					"download"		"25976256"
 				}
 			}
 			"encryptedmanifests"
@@ -549,9 +549,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"8B99408FDFA79B0D00A26F8E6D30FA7C"
+					"gid"		"E30366E7194A969427560BEB82BC10B2"
 					"size"		"83EFE25E16F169EFA09FB53FF3A79217"
-					"download"		"967F6B4CBB9F47AD6EA60F7A757BC34E"
+					"download"		"E69CC80CCBAEAF7CF85F1742AEA20009"
 				}
 			}
 		}
@@ -565,15 +565,15 @@
 			{
 				"public"
 				{
-					"gid"		"2225822248921973042"
-					"size"		"112434543"
-					"download"		"27295712"
+					"gid"		"1583585682962005753"
+					"size"		"112483879"
+					"download"		"27305040"
 				}
 				"testing"
 				{
-					"gid"		"3214974746854104530"
+					"gid"		"1583585682962005753"
 					"size"		"112483879"
-					"download"		"27304960"
+					"download"		"27305040"
 				}
 			}
 			"encryptedmanifests"
@@ -688,9 +688,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"80502E549C3EB9B1529EC87809A008DF"
+					"gid"		"AF743C8F66C096B3EB9D9461F8470C91"
 					"size"		"A73B26F7D1810A8877E9DDBB74B22C84"
-					"download"		"317C319880BEE2F372B96384E8CA2C73"
+					"download"		"37A30DA0EF78AF38F5F5E2EDAD865E8E"
 				}
 			}
 		}
@@ -704,15 +704,15 @@
 			{
 				"public"
 				{
-					"gid"		"5562853790525172683"
-					"size"		"125125802"
-					"download"		"28184608"
+					"gid"		"2879114809558930938"
+					"size"		"125166762"
+					"download"		"28200832"
 				}
 				"testing"
 				{
-					"gid"		"7500784431838853140"
+					"gid"		"2879114809558930938"
 					"size"		"125166762"
-					"download"		"28201312"
+					"download"		"28200832"
 				}
 			}
 			"encryptedmanifests"
@@ -827,9 +827,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"415A448F4F12925B6E48DF6F257CC847"
+					"gid"		"B95D82B8159CFA0E5F6C1E3AAB7EA105"
 					"size"		"B37211237988908D02BAEB5A69FD944B"
-					"download"		"90879C28B995610B7101A2E8254ECC9D"
+					"download"		"7B817DD3A62B393243CBE7189E782561"
 				}
 			}
 		}
@@ -843,15 +843,15 @@
 			{
 				"public"
 				{
-					"gid"		"1443912169646569956"
-					"size"		"52226593"
-					"download"		"14233568"
+					"gid"		"26535987976254964"
+					"size"		"52241441"
+					"download"		"14239344"
 				}
 				"testing"
 				{
-					"gid"		"4914532425774597402"
+					"gid"		"26535987976254964"
 					"size"		"52241441"
-					"download"		"14239408"
+					"download"		"14239344"
 				}
 			}
 			"encryptedmanifests"
@@ -966,9 +966,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"CA8102E6020499E76A8FFD8A0C1E9542"
+					"gid"		"2E3ABCD44BE183B3571E6F27C7BA9B00"
 					"size"		"3CF1BC0FE8473AE45A95948EA7ADD5BD"
-					"download"		"7EB9F758100E33AC1DDA1048834E7508"
+					"download"		"EE83D918DA8C4E6DDF2245AA603F14EA"
 				}
 			}
 		}
@@ -982,15 +982,15 @@
 			{
 				"public"
 				{
-					"gid"		"6368783598468768570"
-					"size"		"63680755"
-					"download"		"17422928"
+					"gid"		"3166513161668558459"
+					"size"		"63697203"
+					"download"		"17430352"
 				}
 				"testing"
 				{
-					"gid"		"5361247203867145133"
+					"gid"		"3166513161668558459"
 					"size"		"63697203"
-					"download"		"17430464"
+					"download"		"17430352"
 				}
 			}
 			"encryptedmanifests"
@@ -1105,9 +1105,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"0CDCF76EECD47D30F460C2606B7E612A"
+					"gid"		"43BF73504EDC0AED4BDF7E991012987D"
 					"size"		"D40F90F6C9C0CD6B5F01C74FDAA34B1B"
-					"download"		"C51BC541A3CE350E08A12F50E86956F6"
+					"download"		"87D96A9B6F6ED83B14EA245FFABA6F7D"
 				}
 			}
 		}
@@ -1121,15 +1121,15 @@
 			{
 				"public"
 				{
-					"gid"		"1027426768631739303"
-					"size"		"66755024"
-					"download"		"18390864"
+					"gid"		"3278133516509748780"
+					"size"		"66787792"
+					"download"		"18398816"
 				}
 				"testing"
 				{
-					"gid"		"7558093862341577954"
+					"gid"		"3278133516509748780"
 					"size"		"66787792"
-					"download"		"18398624"
+					"download"		"18398816"
 				}
 			}
 			"encryptedmanifests"
@@ -1244,9 +1244,9 @@
 				}
 				"ugames"
 				{
-					"gid"		"D4EAE1BB327AA7CA6E8F8A5B9E53DB35"
+					"gid"		"3A2D1C91FA992EADE439EB2F3E83E1A1"
 					"size"		"5427D3752DBA65AF0FC530AD9358DB24"
-					"download"		"650459B7634F1650E0B0D815D6428571"
+					"download"		"AAF3565020AABBAB926E230CC3B5975A"
 				}
 			}
 		}
@@ -1394,8 +1394,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11973933"
-				"timeupdated"		"1692870658"
+				"buildid"		"13000625"
+				"timeupdated"		"1704965109"
 			}
 			"b27600"
 			{
@@ -1501,9 +1501,9 @@
 			}
 			"testing"
 			{
-				"buildid"		"12868858"
+				"buildid"		"13000625"
 				"description"		"external testing"
-				"timeupdated"		"1702546047"
+				"timeupdated"		"1703151158"
 			}
 			"tgr-stable"
 			{
@@ -1513,9 +1513,9 @@
 			}
 			"ugames"
 			{
-				"buildid"		"12868858"
+				"buildid"		"13000625"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701692673"
+				"timeupdated"		"1702991082"
 			}
 		}
 	}
