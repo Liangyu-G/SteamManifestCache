@@ -19,6 +19,7 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
+		"aicontenttype"		"1"
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -182,9 +183,18 @@
 			{
 				"public"
 				{
-					"gid"		"4403353472477782935"
-					"size"		"224546142"
-					"download"		"104503008"
+					"gid"		"6894889655255845622"
+					"size"		"240120124"
+					"download"		"118787472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A04DA0C2B5311123302C1F12EC932506"
+					"size"		"B617EEB1C33F6813E184631A333E4AA7"
+					"download"		"59509030846315B3C18C2B908CBD844A"
 				}
 			}
 		}
@@ -199,9 +209,18 @@
 			{
 				"public"
 				{
-					"gid"		"5558421780294737084"
-					"size"		"5384"
-					"download"		"2208"
+					"gid"		"5294620133984508661"
+					"size"		"5526"
+					"download"		"2240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F63CC207F984C3A1278D8A92AD84DC5E"
+					"size"		"ACE42D036CBB8170B08EA297E3D20674"
+					"download"		"4DBF3A47774322462E7AB9DEF13F9B65"
 				}
 			}
 		}
@@ -209,15 +228,31 @@
 		{
 			"public"
 			{
-				"buildid"		"11726637"
-				"timeupdated"		"1689667559"
+				"buildid"		"13133049"
+				"timeupdated"		"1704973753"
+			}
+			"test"
+			{
+				"buildid"		"13133049"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704861021"
 			}
 		}
 	}
 	"ufs"
 	{
-		"quota"		"10000"
+		"quota"		"100000000"
 		"maxnumfiles"		"100"
 		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+				"recursive"		"1"
+			}
+		}
 	}
 }
