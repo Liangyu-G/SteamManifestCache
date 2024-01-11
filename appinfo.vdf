@@ -253,15 +253,15 @@
 			{
 				"public"
 				{
-					"gid"		"3900320051868301181"
-					"size"		"12885022413"
-					"download"		"5203571312"
+					"gid"		"1291446275124673364"
+					"size"		"12885021893"
+					"download"		"5203590976"
 				}
 				"beta"
 				{
-					"gid"		"3900320051868301181"
-					"size"		"12885022413"
-					"download"		"5203571312"
+					"gid"		"1291446275124673364"
+					"size"		"12885021893"
+					"download"		"5203590976"
 				}
 			}
 			"encryptedmanifests"
@@ -274,9 +274,9 @@
 				}
 				"developer"
 				{
-					"gid"		"DDEA7128FCF444E155B5ADA6490E2B0E"
-					"size"		"3C07E4152E0A933CF4AD81F19CAFF467"
-					"download"		"BDA52F7F3453A6F854F6F562BD53F1B3"
+					"gid"		"A5145043164FFBD3FA1E24C2221C182C"
+					"size"		"A7DB00AC8F29D2F315FDB2E787670854"
+					"download"		"456D4A853DEB6BE8051D62AE3DA7BBAB"
 				}
 			}
 		}
@@ -284,8 +284,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13121483"
-				"timeupdated"		"1704755567"
+				"buildid"		"13147859"
+				"timeupdated"		"1704987308"
 			}
 			"alpha"
 			{
@@ -295,15 +295,15 @@
 			}
 			"beta"
 			{
-				"buildid"		"13121483"
+				"buildid"		"13147859"
 				"description"		"Beta bug fixes"
-				"timeupdated"		"1704755542"
+				"timeupdated"		"1704987261"
 			}
 			"developer"
 			{
-				"buildid"		"13121483"
+				"buildid"		"13147859"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704755277"
+				"timeupdated"		"1704986967"
 			}
 		}
 	}
