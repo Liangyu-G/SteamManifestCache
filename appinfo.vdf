@@ -27,6 +27,12 @@
 			"tchinese"		"似曾相識的「那些遊戲」都換火柴人當主角了，你真的能夠順利通關嗎？"
 			"schinese"		"我们把似曾相见的「那些游戏」都做成了火柴人，可是你又能否成功过关呢？"
 			"english"		"YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!"
+			"koreana"		"어디서 많이 본 그 게임을 막대 인간으로 진짜 만들어 봤는데, 과연 당신이 클리어할 수 있을까?"
+			"french"		"HÉ ! VOUS LES VOULIEZ « CES JEUX », HEIN ? EH BIEN, LES VOILÀ ! À VOUS DE JOUER MAINTENANT !"
+			"italian"		"SÌ! VUOI PROVARE \"QUEI GIOCHI LÌ\", EH? ECCO A TE! ORA VEDIAMO COME TE LA CAVI!"
+			"german"		"HEY! DU WILLST „DIESE SPIELE“, STIMMTS? AlSO BITTE SCHÖN! DU BIST DRAN!"
+			"latam"		"¡EY! ¿QUIERES JUGAR A \"ESOS JUEGOS\", VERDAD? ¡PUES AQUÍ LOS TIENES! VEAMOS CÓMO LOS COMPLETAS."
+			"brazilian"		"VOCÊ QUER \"AQUELES JOGOS\", NÉ? ENTÃO TOMA! AGORA MOSTRE COMO SE FAZ!"
 		}
 		"icon"		"97c381bbf540f64c402ea19ee4a807232fa7684f"
 		"clienticon"		"474a419c16543b73d6ceeb4a5f5e8a6b5590c336"
@@ -81,18 +87,30 @@
 			"japanese"		"capsule_231x87_japanese.jpg"
 			"english"		"capsule_231x87.jpg"
 			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
 		}
 		"header_image"
 		{
 			"japanese"		"header_japanese.jpg"
 			"english"		"header.jpg"
 			"tchinese"		"header_tchinese.jpg"
+			"italian"		"header_italian.jpg"
+			"latam"		"header_latam.jpg"
+			"german"		"header_german.jpg"
+			"brazilian"		"header_brazilian.jpg"
+			"french"		"header_french.jpg"
+			"koreana"		"header_koreana.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"ja,en,zh-tw"
+			"library_capsule"		"ja,en,zh-tw,it,es-419,de,pt-br,fr,ko"
 			"library_hero"		"en,ja,zh-tw"
-			"library_logo"		"en,ja,zh-tw"
+			"library_logo"		"en,ja,zh-tw,it,es-419,de,pt-br,fr,ko"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -100,7 +118,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1688134400"
+		"store_asset_mtime"		"1704938923"
 		"associations"
 		{
 			"0"
@@ -149,6 +167,36 @@
 			{
 				"supported"		"true"
 				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
 				"subtitles"		"true"
 			}
 		}
@@ -215,9 +263,9 @@
 			{
 				"public"
 				{
-					"gid"		"6134571276658995997"
-					"size"		"1390294615"
-					"download"		"280393536"
+					"gid"		"3198758757029438068"
+					"size"		"738161024"
+					"download"		"264946784"
 				}
 			}
 			"encryptedmanifests"
@@ -253,8 +301,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11960872"
-				"timeupdated"		"1692670461"
+				"buildid"		"12908421"
+				"timeupdated"		"1704935228"
 			}
 			"dev-debug"
 			{
