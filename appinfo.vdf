@@ -13,7 +13,7 @@
 		{
 			"english"		"The Leviathan's Fantasy"
 			"schinese"		"我的幻想乡"
-			"tchinese"		"我的幻想乡"
+			"tchinese"		"我的幻想鄉"
 		}
 		"oslist"		"windows"
 		"osarch"		""
@@ -164,7 +164,7 @@
 			"19"		"4166"
 		}
 		"review_score"		"6"
-		"review_percentage"		"73"
+		"review_percentage"		"74"
 	}
 	"extended"
 	{
@@ -219,15 +219,15 @@
 			{
 				"public"
 				{
-					"gid"		"3200530437901714065"
-					"size"		"13722788650"
-					"download"		"13110196448"
+					"gid"		"6364937105140644993"
+					"size"		"13728235424"
+					"download"		"13115600288"
 				}
 				"beta"
 				{
-					"gid"		"3200530437901714065"
-					"size"		"13722788650"
-					"download"		"13110196448"
+					"gid"		"6364937105140644993"
+					"size"		"13728235424"
+					"download"		"13115600288"
 				}
 				"oldver"
 				{
@@ -241,14 +241,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13136069"
-				"timeupdated"		"1704887836"
+				"buildid"		"13143380"
+				"timeupdated"		"1704951143"
 			}
 			"beta"
 			{
-				"buildid"		"13136069"
+				"buildid"		"13143380"
 				"description"		"测试"
-				"timeupdated"		"1704887846"
+				"timeupdated"		"1704951150"
 			}
 			"oldver"
 			{
