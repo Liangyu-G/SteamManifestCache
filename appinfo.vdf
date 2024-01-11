@@ -24719,6 +24719,15 @@
 					"download"		"67482992"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"dlcfixes"
+				{
+					"gid"		"80C072783DBEC1BFF54EE299E2DEC9A1"
+					"size"		"FFBA606BEC78214403C409FA6F4999D8"
+					"download"		"F10CBB6B07CC70935C0D6718C9BCBA0A"
+				}
+			}
 		}
 		"2403281"
 		{
@@ -25204,9 +25213,9 @@
 			}
 			"dlcfixes"
 			{
-				"buildid"		"13021234"
+				"buildid"		"13116643"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703169818"
+				"timeupdated"		"1704712684"
 			}
 			"public_beta"
 			{
