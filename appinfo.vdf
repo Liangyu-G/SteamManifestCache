@@ -141,15 +141,15 @@
 			{
 				"public"
 				{
-					"gid"		"6049490658658556803"
-					"size"		"463490403"
-					"download"		"113747728"
+					"gid"		"8070105965275010987"
+					"size"		"476265571"
+					"download"		"115366416"
 				}
 				"playtest"
 				{
-					"gid"		"6049490658658556803"
-					"size"		"463490403"
-					"download"		"113747728"
+					"gid"		"8070105965275010987"
+					"size"		"476265571"
+					"download"		"115366416"
 				}
 			}
 		}
@@ -157,14 +157,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13043919"
-				"timeupdated"		"1703522157"
+				"buildid"		"13145256"
+				"timeupdated"		"1704967942"
 			}
 			"playtest"
 			{
-				"buildid"		"13043919"
+				"buildid"		"13145256"
 				"description"		"测试版"
-				"timeupdated"		"1703522131"
+				"timeupdated"		"1704967914"
 			}
 		}
 	}
