@@ -257,21 +257,21 @@
 			"1"		"1743"
 			"2"		"4345"
 			"3"		"5228"
-			"4"		"6915"
-			"5"		"3859"
+			"4"		"3859"
+			"5"		"6915"
 			"6"		"4667"
 			"7"		"4736"
 			"8"		"1775"
 			"9"		"1773"
 			"10"		"1742"
-			"11"		"4747"
-			"12"		"4975"
-			"13"		"4182"
+			"11"		"4182"
+			"12"		"4747"
+			"13"		"4975"
 			"14"		"4166"
 			"15"		"3878"
 			"16"		"1667"
-			"17"		"4191"
-			"18"		"5611"
+			"17"		"5611"
+			"18"		"4191"
 			"19"		"3841"
 		}
 		"review_score"		"6"
@@ -284,7 +284,7 @@
 		"developer"		"NetherRealm Studios"
 		"publisher"		"Warner Bros. Games"
 		"homepage"		"https://www.mortalkombat.com/"
-		"listofdlc"		"2576730,2576740,2576750,2576760,2576770,2576780,2576790,2576800,2576810,2586300,2636080,2636090,2695680"
+		"listofdlc"		"2576730,2576740,2576750,2576760,2576770,2576780,2576790,2576800,2576810,2586300,2615190,2636080,2636090,2695680"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -311,7 +311,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"develop drop prod moon phantom elks moose reindeer cookie"
+					"betakey"		"develop drop prod moon phantom elks moose reindeer cookie scooby shaggy"
 				}
 				"description_loc"
 				{
@@ -410,15 +410,15 @@
 				}
 				"develop"
 				{
-					"gid"		"4B15CCA4291E31B1BC1723F068B31DFD"
-					"size"		"976CF9B2C020EA5E0CE577DC573A8844"
-					"download"		"0AED79BFB5BF5DB63D5C4303D60494D7"
+					"gid"		"C701D46CBEA52F6F4F8F2EEBD9A26A43"
+					"size"		"B091DFEE6F1A6B00FC4E03E2B53CC4FF"
+					"download"		"187F44848BAEF300C35D51A11122FE53"
 				}
 				"drop"
 				{
-					"gid"		"A7EA0247D1E2CB1E53A183EB810AAD91"
-					"size"		"9C7DF26ADAB76E68F24C4B02CF8EF788"
-					"download"		"A2781BA0285AF6592CC3E378BF166A25"
+					"gid"		"8F46B90CC226AE937DA074EB14CF0F80"
+					"size"		"6C40E53386666434594B1EE2E46FEF70"
+					"download"		"F5A1DFCDF03C1DDB05C76180F5284695"
 				}
 				"elks"
 				{
@@ -446,15 +446,15 @@
 				}
 				"phantom"
 				{
-					"gid"		"70B4466101E89D37BBE0BD84C7C873EF"
-					"size"		"49A8BF6A560148819F8FBC1BF226817E"
-					"download"		"F969514FF1CB5D55032ED6CE3B3DA070"
+					"gid"		"6EA217330961321EA4CB688D81851DBA"
+					"size"		"4D21B9D0334572CB82F343FB4CF915A6"
+					"download"		"83FF24B263DC07CDE2FEA2D88044E973"
 				}
 				"prod"
 				{
-					"gid"		"592A1F9EE22AF5BE5F32683C510566BB"
-					"size"		"FE40A2F53029B13CDCB0D87F813D22F2"
-					"download"		"6BD279DE1D1E2BD45AF46F2FAEBDE8D5"
+					"gid"		"9F03FD73A63B325839AF766E38069B35"
+					"size"		"BDCC1A38654AB358B2BB28C7F0A523FC"
+					"download"		"08C7D020D5565FD1DA3128B6B4A5FE2E"
 				}
 				"reindeer"
 				{
@@ -462,11 +462,23 @@
 					"size"		"2446E4F3648E548ECF93E88135BA062F"
 					"download"		"C5E32FDDE6CA880C6F3DDD127C37B40F"
 				}
+				"scooby"
+				{
+					"gid"		"3E31D387C2F47B31F9703593E254E6D5"
+					"size"		"D102DD6DF89286CDDA2C93991CADC7BA"
+					"download"		"2DB8EBA2701FABBFDA96DA247A96F199"
+				}
+				"shaggy"
+				{
+					"gid"		"0CD50E6447ACB0289C18773F1F1B8125"
+					"size"		"6AEDCEFEDA59BB3E9EECF546FAF4F634"
+					"download"		"815D9531A226DA819F7BF6A8B7664428"
+				}
 				"stage"
 				{
-					"gid"		"7841745E34EF4B13BCBE5CC0058FE756"
-					"size"		"7ADD8759901A5CE3E4DE4DF385912BBA"
-					"download"		"D9F93321060F9BA8149E09159D182A3D"
+					"gid"		"A89C5E3A99211ADA8273DA087476D367"
+					"size"		"A63420099626A00AD024A621E07F36D5"
+					"download"		"E3F4E586DBCC9473406FB96DDD34F6D0"
 				}
 			}
 		}
@@ -571,6 +583,18 @@
 					"size"		"1FC751EBACED954909CAB1431E190937"
 					"download"		"62CEF9AADA8764DD1BE586B0EA4D024E"
 				}
+				"scooby"
+				{
+					"gid"		"F940D85A09763D22B0EB8CB20A520F41"
+					"size"		"E51B1386FAA073F8ABC377E60A40FA03"
+					"download"		"990C708B5726CE6735C343F2404075D6"
+				}
+				"shaggy"
+				{
+					"gid"		"B817C0E7A66A00DB08F9C205F6730F9C"
+					"size"		"614D50356C1AA0D1B224DD76600AFA6B"
+					"download"		"CBCD32506C0D698E7A289DD7B69776F9"
+				}
 				"stage"
 				{
 					"gid"		"2FC966A6B415A937296F8EB3AA5EC851"
@@ -628,15 +652,15 @@
 				}
 				"develop"
 				{
-					"gid"		"4F058B5CF46E0F45AC4E28ED3A8AA885"
-					"size"		"AFCA0A50444C7AAE5FB3319C21385886"
-					"download"		"F3CFAA18E25020D455D44A06606448BA"
+					"gid"		"2B3BF10617A0B00B103C1BB03C7F6F92"
+					"size"		"CA4EEC521C764D2EBBDCDC9FAB70FD15"
+					"download"		"C74F61F4534DD81E4A829DD2F4358945"
 				}
 				"drop"
 				{
-					"gid"		"D88B8BB2D96C211B7DB3E01598FADEA0"
-					"size"		"D6C7C152E7C0DE5E4C3CC6CAFB90530B"
-					"download"		"2166D5D8332E910FC55B9C6BB6B6BED9"
+					"gid"		"1720006C4957004B974C66599F63F399"
+					"size"		"297EAF5440404583F307D7C7733A6DCB"
+					"download"		"4213E9A0838E5C9D8EFD32D8DDC5DC57"
 				}
 				"elks"
 				{
@@ -664,15 +688,15 @@
 				}
 				"phantom"
 				{
-					"gid"		"964C0EFCAA638B47D8CC353FA980DCC7"
-					"size"		"787D0FB87C25B16B891F142BCF5E4649"
-					"download"		"1B318A6372721D7EAA1E4DB679ADC43E"
+					"gid"		"3B3D08055DE5D0264C20E3A0D6A8264F"
+					"size"		"654BEC638A243EB57C1D9C6542F2E73B"
+					"download"		"651DE9B2970A134954FD7E4740413223"
 				}
 				"prod"
 				{
-					"gid"		"98B1BE8A9A291426D06D6D994C50C528"
-					"size"		"12A7C3470160D24D3E34A0551BEB98E6"
-					"download"		"48F0C4E252FB1932E7CA8C8346721F08"
+					"gid"		"BBD90D03477784B09B150C32A01C985A"
+					"size"		"78C59F8B7F89B7C5517A26F5D68467A5"
+					"download"		"C86D9E0EB1161A454FBC28BC1C26F105"
 				}
 				"reindeer"
 				{
@@ -680,11 +704,23 @@
 					"size"		"11E5E6E1DDC8FCB842B8F0989D53F191"
 					"download"		"7EEAED8476D6B40CE5DA760C71832D58"
 				}
+				"scooby"
+				{
+					"gid"		"4ED755E10C8C26090BFEA7A0EAB323BE"
+					"size"		"EB54C896DBC7154CBD87BA533D565BD8"
+					"download"		"72EC73960FEC61358F01CB625648EA85"
+				}
+				"shaggy"
+				{
+					"gid"		"35E0ABEFF1FE251982CA1A97428C0AAF"
+					"size"		"F6F8689AD18D505ABE74F65B275134FB"
+					"download"		"45492F80AADCC03BC0652EA48464889F"
+				}
 				"stage"
 				{
-					"gid"		"E4F2FD6FE55BC733C814E429025A86B1"
-					"size"		"F6CD740CEE18EEEA631DE52D2AC6D73E"
-					"download"		"31384834AF251E16411B6C9054D291BC"
+					"gid"		"5FCCC846B53962DDECC3D0D582DE7D7E"
+					"size"		"52B44E34530DDC719705EC950044D2E6"
+					"download"		"25B51AEC229D535A14438FCF4B1099DC"
 				}
 			}
 		}
@@ -789,6 +825,18 @@
 					"size"		"028FBDA902ED0761C93A36495FB23415"
 					"download"		"9C64715815E9DCF70C4311610D372CB8"
 				}
+				"scooby"
+				{
+					"gid"		"C6EA6CC7D799E199F653ACA5EF483BBB"
+					"size"		"67609A928685AF0F9EC78AD9E6E82270"
+					"download"		"045D7F54AD1485C35C0460E1E8C66008"
+				}
+				"shaggy"
+				{
+					"gid"		"F17D472E5C8DCF3C46A426B41C287772"
+					"size"		"39E560D98A7CF7C5850C4A537DE43F0A"
+					"download"		"25C00F2C760DA51934F71B309C77660D"
+				}
 				"stage"
 				{
 					"gid"		"6C3C15B4815FEB4B32E26EA6E440F785"
@@ -851,6 +899,18 @@
 					"size"		"FE82F951D896D64898B10ECDC8AF5074"
 					"download"		"CBFFF30EA2660C6FA1703572CCD0A5EB"
 				}
+				"scooby"
+				{
+					"gid"		"C096C8116314D5A22C9807593EF0FFA0"
+					"size"		"5378A57D82711077CFA03C80FAA9FDDE"
+					"download"		"2036BADA77325BD7A0F5E49443B559AC"
+				}
+				"shaggy"
+				{
+					"gid"		"BEF68B782E2D5B431BA765855EF351A9"
+					"size"		"7E65406F9B3FC48F41ED2AE8A058B6AE"
+					"download"		"6E5DD25E4A5A850502141C5104F4E11A"
+				}
 				"stage"
 				{
 					"gid"		"24ABB9732D13696C832E3E8CE4654859"
@@ -898,15 +958,15 @@
 			}
 			"develop"
 			{
-				"buildid"		"13016987"
+				"buildid"		"13143143"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703133589"
+				"timeupdated"		"1704948537"
 			}
 			"drop"
 			{
-				"buildid"		"12890723"
+				"buildid"		"13137040"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701872773"
+				"timeupdated"		"1704894885"
 			}
 			"elks"
 			{
@@ -934,15 +994,15 @@
 			}
 			"phantom"
 			{
-				"buildid"		"12999500"
+				"buildid"		"13136536"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702983209"
+				"timeupdated"		"1704891160"
 			}
 			"prod"
 			{
-				"buildid"		"12962868"
+				"buildid"		"13101707"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702565750"
+				"timeupdated"		"1704466563"
 			}
 			"reindeer"
 			{
@@ -950,11 +1010,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1694011019"
 			}
+			"scooby"
+			{
+				"buildid"		"13137040"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704894902"
+			}
+			"shaggy"
+			{
+				"buildid"		"13101707"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704466591"
+			}
 			"stage"
 			{
-				"buildid"		"12999500"
+				"buildid"		"13127012"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703003830"
+				"timeupdated"		"1704962683"
 			}
 		}
 	}
