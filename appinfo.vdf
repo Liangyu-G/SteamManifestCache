@@ -311,18 +311,18 @@
 			{
 				"public"
 				{
-					"gid"		"6167206565273818760"
-					"size"		"499646854"
-					"download"		"339838960"
+					"gid"		"2280818640512519575"
+					"size"		"500561118"
+					"download"		"340398880"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"88F1F93AE62C00A92D464F7A387AB861"
-					"size"		"240F988E463E5D18BE2F6242B61D95CA"
-					"download"		"AF810245DCAD13AFD055F6E5403862A9"
+					"gid"		"490F0502B9551FE8E71B3EA030CE07F1"
+					"size"		"340FDDC70FB74D022464082448222A8F"
+					"download"		"4B5E85B7C1D8ECC01AFADB9FB637B1EA"
 				}
 				"gc23demo"
 				{
@@ -350,9 +350,9 @@
 				}
 				"internal"
 				{
-					"gid"		"0B37E1DB87802677582C335B8F0C9D7B"
-					"size"		"EB19682931B40B1286962B725186CBF3"
-					"download"		"F2986EF312DC7892DE7F65D931ED4D2A"
+					"gid"		"7B093D58E090E1F59982BC827CFDEA64"
+					"size"		"F8F46F8CA84D145F4602CFFF843F5611"
+					"download"		"C34D213412891B518F6833A315104AC0"
 				}
 				"macos"
 				{
@@ -427,14 +427,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13040105"
-				"timeupdated"		"1703432826"
+				"buildid"		"13140554"
+				"timeupdated"		"1704975003"
 			}
 			"alpha"
 			{
-				"buildid"		"13040105"
+				"buildid"		"13140554"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703432758"
+				"timeupdated"		"1704923137"
 			}
 			"gc23demo"
 			{
@@ -462,9 +462,9 @@
 			}
 			"internal"
 			{
-				"buildid"		"13026659"
+				"buildid"		"13143122"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703221021"
+				"timeupdated"		"1704948268"
 			}
 			"macos"
 			{
@@ -507,7 +507,7 @@
 			"0"
 			{
 				"root"		"WinAppDataLocalLow"
-				"path"		"Playstack/AK-xolotl/SaveFiles/AKSettingSlot"
+				"path"		"Playstack/AK-xolotl/SaveFiles/AKSettingSlotSync"
 				"pattern"		"*"
 			}
 			"1"
