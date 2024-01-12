@@ -3,7 +3,7 @@
 	"appid"		"1538750"
 	"common"
 	{
-		"name"		"Master of Pieces © Jigsaw Puzzles"
+		"name"		"Master of Pieces © Jigsaw Puzzle"
 		"type"		"Game"
 		"logo"		"fdea358253b737ed5851729283c54e3435505b1a"
 		"logo_small"		"fdea358253b737ed5851729283c54e3435505b1a_thumb"
@@ -133,9 +133,9 @@
 			{
 				"public"
 				{
-					"gid"		"866761359799480915"
-					"size"		"654466791"
-					"download"		"558833904"
+					"gid"		"2667151627979219290"
+					"size"		"654467045"
+					"download"		"558834752"
 				}
 			}
 		}
@@ -143,8 +143,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13093898"
-				"timeupdated"		"1704388908"
+				"buildid"		"13150505"
+				"timeupdated"		"1705007154"
 			}
 		}
 	}
