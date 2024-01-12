@@ -248,30 +248,30 @@
 			{
 				"public"
 				{
-					"gid"		"1180514093616294269"
-					"size"		"5259845142"
-					"download"		"1066203760"
+					"gid"		"6138054493072473002"
+					"size"		"5260119722"
+					"download"		"1066487808"
 				}
 				"beta"
 				{
-					"gid"		"3476810752990703837"
-					"size"		"5011432741"
-					"download"		"946459376"
+					"gid"		"6138054493072473002"
+					"size"		"5260119722"
+					"download"		"1066487808"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"7C783ECE51BB06B845FCA1899CF2DD2A"
-					"size"		"B61E23C2C608C09F84ED16B12122C836"
-					"download"		"5B96D9FB40EB6473FDA9B2E78FB7F85E"
+					"gid"		"FD289466769778813714203FD1F43091"
+					"size"		"64F6E4CC6F6127EC5473631FFC066E74"
+					"download"		"83D1D514E9C2910FA528E615CAA05798"
 				}
 				"modalpha"
 				{
-					"gid"		"D25B1D8DDD8F17950DA53CD54B6C98FB"
-					"size"		"C26C7DF289284C28CFCCFE797115A93D"
-					"download"		"4E67A248E9C8ABEC1977ADDA0A9C1E55"
+					"gid"		"5B750884BC183010D10DF93E509E8E43"
+					"size"		"B23EEE889780DBC96942E8915CDE692F"
+					"download"		"D054415BA5D9446F06BBDBB83E26CB35"
 				}
 				"steamdeck"
 				{
@@ -328,26 +328,26 @@
 		{
 			"public"
 			{
-				"buildid"		"13139847"
-				"timeupdated"		"1704933537"
+				"buildid"		"13150531"
+				"timeupdated"		"1705007804"
 			}
 			"alpha"
 			{
-				"buildid"		"13139847"
+				"buildid"		"13150531"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704917186"
+				"timeupdated"		"1705007246"
 			}
 			"beta"
 			{
-				"buildid"		"13016525"
+				"buildid"		"13150531"
 				"description"		"Beta"
-				"timeupdated"		"1703128214"
+				"timeupdated"		"1705007819"
 			}
 			"modalpha"
 			{
-				"buildid"		"12249834"
+				"buildid"		"13150531"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695324845"
+				"timeupdated"		"1705007828"
 			}
 			"steamdeck"
 			{
