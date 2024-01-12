@@ -370,9 +370,9 @@
 			{
 				"public"
 				{
-					"gid"		"2445937490003092002"
-					"size"		"72813355939"
-					"download"		"38234048848"
+					"gid"		"2395137173811037418"
+					"size"		"72813355926"
+					"download"		"38234048928"
 				}
 			}
 			"encryptedmanifests"
@@ -404,9 +404,9 @@
 			{
 				"public"
 				{
-					"gid"		"2505972861417721332"
-					"size"		"72808988935"
-					"download"		"38227360000"
+					"gid"		"6922240975642602384"
+					"size"		"72808988922"
+					"download"		"38227360064"
 				}
 			}
 			"encryptedmanifests"
@@ -438,9 +438,9 @@
 			{
 				"public"
 				{
-					"gid"		"4904468182918350981"
-					"size"		"72813355939"
-					"download"		"38232529376"
+					"gid"		"1470737190011718676"
+					"size"		"72813355926"
+					"download"		"38232529456"
 				}
 			}
 			"encryptedmanifests"
@@ -472,9 +472,9 @@
 			{
 				"public"
 				{
-					"gid"		"8602127575737199696"
-					"size"		"72882472580"
-					"download"		"38267547392"
+					"gid"		"4368162923842623121"
+					"size"		"72882472567"
+					"download"		"38267547472"
 				}
 			}
 			"encryptedmanifests"
@@ -3018,9 +3018,9 @@
 			{
 				"public"
 				{
-					"gid"		"2241181336338424863"
-					"size"		"19680494"
-					"download"		"13779088"
+					"gid"		"1238890144190067925"
+					"size"		"19680767"
+					"download"		"13778592"
 				}
 			}
 			"encryptedmanifests"
@@ -3094,9 +3094,9 @@
 			{
 				"public"
 				{
-					"gid"		"8521202112688983170"
-					"size"		"24466090"
-					"download"		"19223120"
+					"gid"		"7289907879023497042"
+					"size"		"24466034"
+					"download"		"19223424"
 				}
 			}
 			"encryptedmanifests"
@@ -3115,9 +3115,9 @@
 				}
 				"wot_snr"
 				{
-					"gid"		"78FE610544C7149A825DAA26FEDC4557"
-					"size"		"C9C45BD8633E4FE5053C914816CBCE97"
-					"download"		"AF62AAFBCC60CB2AC4C4570E1803B00B"
+					"gid"		"8A0BEC04EAA57639E7D7792291A6C154"
+					"size"		"EEA09507BFC998EFF4FC11833045D0D2"
+					"download"		"DF5D24D0DA5A9D54A60608B02CB1C18C"
 				}
 			}
 		}
@@ -3545,8 +3545,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13132433"
-				"timeupdated"		"1704854515"
+				"buildid"		"13150620"
+				"timeupdated"		"1705007927"
 			}
 			"be_test"
 			{
@@ -3562,9 +3562,9 @@
 			}
 			"wot_snr"
 			{
-				"buildid"		"13144205"
+				"buildid"		"13147466"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704960012"
+				"timeupdated"		"1704984290"
 			}
 		}
 	}
