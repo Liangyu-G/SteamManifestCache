@@ -1,3 +1,15 @@
+<div align="center">
+
+![SteamManifestCache](https://socialify.git.ci/pjy612/SteamManifestCache/image?description=1&font=Inter&forks=1&language=1&owner=1&pattern=Plus&stargazers=1&theme=Auto)
+<!--
+![GitHub Repo Size](https://img.shields.io/github/repo-size/pjy612/SteamManifestCache?style=for-the-badge)
+-->
+
+[![GitHub Release (with filter)](https://img.shields.io/github/v/release/pjy612/SteamManifestCache?style=for-the-badge)](https://github.com/pjy612/SteamManifestCache/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pjy612/SteamManifestCache/total?style=for-the-badge&color=violet)](https://github.com/pjy612/SteamManifestCache/releases)
+
+</div>
+
 # SteamManifestCache
 
 ### 免责声明
@@ -19,6 +31,8 @@
 + 夏萝莉（BA技术宅 疑似男娘
 + [@wxy1343](https://github.com/wxy1343) （清单库先驱，提供了很多启发和思路
 + [@BlankTMing](https://github.com/BlankTMing) （提供了一些技术和清单支持）
++ FQQ（菜玩站长，不时扫货新游戏，跟着沾光，大大的赞）
++ Morrenus (隶属于 discord [MorrenusGames](https://discord.gg/MorrenusGames) 分享了很多密钥，该频道的机器人很好用，建议尝试
   
 以上排名不分先后 为了避免被骚扰 所以用化名表示
 
